@@ -1,0 +1,3679 @@
+
+.leaflet-cluster-anim .leaflet-marker-icon, .leaflet-cluster-anim .leaflet-marker-shadow {
+    transition: transform 0.2s ease-out 0s, opacity 0.2s ease-in 0s;
+}
+.leaflet-container a.leaflet-popup-close-button, .routes-list header .close, .route-instructions header .close {
+    color: #9a9a9a;
+    font-family: "Open Sans","Alef Hebrew",helvetica,sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    left: auto;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+.leaflet-container a.leaflet-popup-close-button:hover, .routes-list header .close:hover, .route-instructions header .close:hover {
+    color: #3d3d3d;
+}
+.loading-wheel {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.loading-wheel .spinner {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: rgba(147, 196, 211, 0.9) rgba(190, 220, 229, 0.6) rgba(190, 220, 229, 0.6);
+    border-image: none;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 7px;
+    display: block;
+    height: 80px;
+    left: 50%;
+    margin: -40px auto 100px -40px;
+    position: absolute;
+    top: 50%;
+    width: 80px;
+}
+.alert-popup .leaflet-popup-tip-container::before {
+    display: none;
+}
+.popup-section {
+    border-top: 2px solid #e9e9e9;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 10px 15px;
+}
+.popup-section p {
+    margin: 0;
+}
+.popup-section h3 {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    margin: 0;
+}
+.popup-section:first-child, .popup-section.no-border {
+    border-top: medium none;
+}
+.popup-section.popup-address .street {
+    font-weight: 700;
+}
+.popup-section.popup-actions {
+    border-top: medium none;
+    font-size: 11px;
+    font-weight: 700;
+    padding-top: 5px;
+}
+.popup-section.popup-actions .permalink {
+    margin-right: 5px;
+}
+.popup-section.popup-actions .report-problem {
+    color: #c26c5f;
+}
+.alert-image-popup .modal-body {
+    text-align: center;
+}
+.alert-image-popup .modal-body img {
+    max-height: 90%;
+    max-width: 90%;
+}
+.user-popup {
+    bottom: 25px !important;
+}
+html[dir="rtl"] .alert-popup {
+    left: -107px !important;
+}
+.jam-popup.severity-0 .leaflet-popup-content-wrapper {
+    border-top: 5px solid rgba(255, 198, 46, 0.5);
+}
+.jam-popup.severity-1 .leaflet-popup-content-wrapper {
+    border-top: 5px solid rgba(255, 198, 46, 0.5);
+}
+.jam-popup.severity-2 .leaflet-popup-content-wrapper {
+    border-top: 5px solid rgba(238, 81, 60, 0.5);
+}
+.jam-popup.severity-3 .leaflet-popup-content-wrapper {
+    border-top: 5px solid rgba(178, 22, 0, 0.5);
+}
+.jam-popup.severity-4 .leaflet-popup-content-wrapper {
+    border-top: 5px solid rgba(85, 17, 8, 0.5);
+}
+.jam-popup .leaflet-popup-close-button {
+    top: 10px;
+}
+.irregularity-popup .leaflet-popup-content-wrapper {
+    border-top: 5px solid rgba(228, 122, 115, 0.4);
+}
+.irregularity-popup::after {
+    border-top: 5px dashed rgba(228, 122, 115, 0.8);
+    content: "";
+    display: block;
+    margin-left: 7px;
+    position: absolute;
+    top: 0;
+    width: 95%;
+}
+.geocoding-popup ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.geocoding-popup li.action-item {
+    font-size: 15px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+.geocoding-popup li.action-item a {
+    color: #6d9aa3;
+    text-decoration: none;
+}
+.geocoding-popup li.action-item a i {
+    color: #aacbd6;
+    display: inline-block;
+    font-size: 20px;
+    width: 20px;
+}
+.geocoding-popup .route-buttons {
+    padding-bottom: 5px;
+}
+.geocoding-popup .route-buttons a {
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.geocoding-popup .route-buttons a:first-child {
+    margin-right: 10px;
+}
+.report-problem-dialog ul.types {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.report-problem-dialog ul.types label {
+    font-weight: normal;
+}
+.report-problem-dialog .result {
+    float: left;
+}
+.report-problem-dialog .result.error {
+    color: #c26c5f;
+}
+.report-problem-dialog form {
+    max-height: 600px;
+}
+.report-problem-dialog form.collapsed {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1s ease 0s;
+}
+.leaflet-container {
+    font-weight: 400;
+}
+.leaflet-container a {
+    color: #59899e;
+}
+.leaflet-container a.btn {
+    color: #3d3d3d;
+    font-weight: 700;
+}
+.leaflet-popup-content {
+    margin: 0;
+}
+.leaflet-popup-content-wrapper {
+    background: white none repeat scroll 0 0;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    text-align: left;
+}
+.faded-blue-circle-wrapper {
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    background-color: #93c4d3;
+    border-radius: 50%;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 11px;
+    left: 50%;
+    margin-left: -5px;
+    position: absolute;
+    width: 11px;
+}
+.leaflet-popup-tip-container::before {
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    background-color: #93c4d3;
+    border: 2px solid #59899e;
+    border-radius: 50%;
+    bottom: 4px;
+    content: "";
+    display: block;
+    height: 11px;
+    left: 50%;
+    margin-left: -5px;
+    position: absolute;
+    width: 11px;
+}
+.leaflet-popup-tip-container .leaflet-popup-tip {
+    background: white none repeat scroll 0 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    height: 13px;
+    margin: -6px auto 0;
+    width: 13px;
+}
+.leaflet-popup-tip-container .leaflet-popup-tip::before {
+    display: none;
+}
+.alert-popup .popup-section {
+    font-size: 11px;
+    line-height: 18px;
+    padding: 6px;
+}
+.alert-popup .text-wrapper {
+    padding: 11px 12px 6px;
+}
+.alert-popup .description {
+    margin-bottom: 12px;
+}
+.alert-popup .reporter {
+    margin-top: 8px;
+}
+.alert-popup a.leaflet-popup-close-button {
+    color: #3d3d3d;
+    font-size: 24px;
+}
+.alert-popup a.leaflet-popup-close-button.withImage {
+    color: #fff;
+    z-index: 2;
+}
+.alert-popup .leaflet-popup-tip-container .leaflet-popup-tip {
+    box-shadow: 0 2px 2px 0 rgba(3, 3, 3, 0.3);
+}
+.alert-popup .leaflet-popup-content {
+    max-width: 220px;
+}
+.alert-popup .leaflet-popup-content-wrapper {
+    box-shadow: 0 2px 2px 0 rgba(3, 3, 3, 0.3);
+    padding: 0;
+}
+@keyframes spin {
+0% {
+    transform: rotate(0deg);
+}
+100% {
+    transform: rotate(359deg);
+}
+}
+.routes-list, .route-instructions {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    left: 0;
+    width: 300px;
+}
+.routes-list header, .route-instructions header {
+    padding: 15px 15px 0;
+}
+.routes-list header h3, .route-instructions header h3 {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.routes-list header .close, .route-instructions header .close {
+    opacity: 1;
+    right: 15px;
+}
+.routes-list {
+    clear: left;
+    min-height: 100px;
+    transition: all 0.3s ease 0s;
+    z-index: 6;
+}
+.routes-list.away {
+    display: none;
+    opacity: 0;
+}
+.routes-list .description {
+    border-bottom: 2px solid #e9e9e9;
+    padding: 0 15px 15px;
+}
+.routes-list .loading-indicator {
+    height: 100%;
+    opacity: 1;
+    transition: opacity 0.3s ease 0s;
+    width: 100%;
+    z-index: 1;
+}
+.routes-list .loading-indicator.fade-out {
+    opacity: 0;
+}
+.routes-list .loading-indicator .spinner {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    animation: 2s linear 0s normal none infinite running spin;
+    border-color: rgba(147, 196, 211, 0.9) rgba(190, 220, 229, 0.6) rgba(190, 220, 229, 0.6);
+    border-image: none;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 7px;
+    display: block;
+    height: 38px;
+    margin: 0 auto;
+    width: 38px;
+}
+.routes-list .slidable-content {
+    overflow: hidden;
+    transition: height 0.3s ease 0s;
+}
+.routes-list .slidable-content.slide-up {
+    height: 0;
+    overflow: hidden;
+}
+.routes-list p {
+    margin: 0;
+}
+.routes-list .routes > li {
+    border-bottom: 2px solid #e9e9e9;
+    padding: 15px;
+}
+.routes-list .routes {
+    counter-reset: route;
+    list-style-type: none;
+    margin: 0;
+    max-height: 300px;
+    overflow: auto;
+    padding: 0;
+}
+.routes-list .routes > li {
+    counter-increment: route;
+    cursor: pointer;
+    padding-left: 45px;
+    padding-right: 35px;
+    position: relative;
+}
+.routes-list .routes > li::before {
+    background-color: #ccc;
+    border-radius: 10px;
+    color: #fff;
+    content: counter(route, decimal);
+    display: block;
+    font-size: 11px;
+    font-weight: 700;
+    height: 20px;
+    left: 15px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    width: 20px;
+}
+.routes-list .routes > li.route_0::before {
+    background-color: #7676f9;
+}
+.routes-list .routes > li.route_1::before {
+    background-color: #ff449c;
+}
+.routes-list .routes > li.route_2::before {
+    background-color: #00d7cf;
+}
+.routes-list .routes > li.route_3::before {
+    background-color: #f8bf16;
+}
+.routes-list .routes > li.route_4::before {
+    background-color: #599e5c;
+}
+.routes-list .routes > li.route_5::before {
+    background-color: #ed503b;
+}
+.routes-list .routes > li::after {
+    content: "";
+    display: block;
+    font-family: FontAwesome;
+    font-size: 25px;
+    margin-top: -18px;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+}
+html[dir="rtl"] .routes-list .routes > li::after {
+    content: "";
+}
+.routes-list .routes > li:hover {
+    background-color: #f3f3f3;
+}
+.routes-list .routes > li a.instructions {
+    display: none;
+}
+.route-info .route-name {
+    font-size: 15px;
+}
+.route-info .toll-badge {
+    background-color: #93c4d3;
+    border-radius: 5px;
+    color: white;
+    font-size: 9px;
+    font-weight: bold;
+    margin-left: 3px;
+    padding: 1px 5px;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.route-info .route-stats {
+    margin-top: 5px;
+}
+.route-info .route-stats .route-length, .route-info .route-stats .route-time {
+    display: inline;
+}
+.route-info .route-stats .route-length {
+    margin-right: 5px;
+}
+.permalink-route {
+    padding-bottom: 10px;
+    padding-left: 45px;
+    padding-top: 10px;
+}
+.permalink-route a:hover {
+    color: #3d3d3d;
+}
+.route-instructions {
+    clear: left;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.route-instructions.away {
+    display: none;
+    opacity: 0;
+}
+.route-instructions .instructions-container {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    width: 300px;
+}
+.route-instructions .instructions-container header .close {
+    font-size: 25px;
+    left: 15px;
+    right: auto;
+    top: 7px;
+}
+.route-instructions .instructions-container header .close:active {
+    outline: medium none;
+}
+.route-instructions .instructions-container header h3 {
+    margin-left: 20px;
+}
+.route-instructions ol.instructions {
+    list-style-type: none;
+    margin: 0;
+    max-height: 250px;
+    overflow: auto;
+    padding: 0;
+}
+.route-instructions ol.instructions > li {
+    border-bottom: 2px solid #e9e9e9;
+    min-height: 80px;
+    padding-left: 60px;
+    padding-right: 10px;
+    padding-top: 5px;
+    position: relative;
+}
+.route-instructions ol.instructions > li:last-child {
+    border-bottom: medium none;
+}
+.route-instructions ol.instructions > li .instruction-content {
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.route-instructions ol.instructions > li::before {
+    background-position: center center;
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    height: 100%;
+    left: 10px;
+    position: absolute;
+    top: 10px;
+    width: 40px;
+}
+.route-instructions ol.instructions > li.direction-start::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -180px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-start::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -180px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-continue::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -180px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-continue::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -180px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-turn_right::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -300px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-turn_right::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -300px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-turn_left::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -240px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-turn_left::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -240px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_enter::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -840px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_enter::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -840px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_exit::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -840px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_exit::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -840px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_left::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -660px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_left::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -660px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_right::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -720px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_right::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -720px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_exit_left::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -660px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_exit_left::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -660px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_exit_right::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -720px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_exit_right::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -720px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_straight::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -840px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_straight::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -840px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_exit_straight::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -840px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_exit_straight::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -840px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-roundabout_u::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -900px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-roundabout_u::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -900px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-keep_right::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -120px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-keep_right::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -120px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-keep_left::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -60px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-keep_left::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -60px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-approaching_destination::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-approaching_destination::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 0;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li.direction-uturn::before {
+    background-image: url("/assets/livemap/instructions/normal-s9a8612a4cf-b5d1608d6dbb4c83d87b2d841ae890f7.png");
+    background-position: 0 -1020px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.route-instructions ol.instructions > li.direction-uturn::before {
+    background-image: url("/assets/livemap/instructions/retina-s3fa78494f2-3ef3246c6bcb2c65df99581eab9e9091.png");
+    background-position: 0 -1020px;
+    background-size: 60px auto;
+}
+}
+.route-instructions ol.instructions > li p {
+    margin: 0;
+}
+.route-instructions ol.instructions > li h2 {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.2em;
+    margin: 0;
+}
+@media (max-width: 979px) {
+.map-controls {
+    display: none;
+}
+}
+.map-controls {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    width: 400px;
+}
+.map-controls .routing-time {
+    color: #59899e;
+    cursor: pointer;
+    display: none;
+    font-size: 11px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.map-controls .routing-time.disabled {
+    color: #c2c2c2;
+    cursor: default;
+    opacity: 0.5;
+}
+.map-controls .routing-time span {
+    margin-bottom: 0;
+}
+.map-controls .routing-time i.fa-angle-down, .map-controls .routing-time i.fa-angle-up {
+    margin-left: 5px;
+}
+.map-controls .routing-time-form {
+    display: none;
+    margin-top: 10px;
+    width: 190px;
+}
+.map-controls .search-forms {
+    overflow: visible;
+}
+.map-controls .search-forms .at select {
+    width: 110px;
+}
+.map-controls .search-forms select, .map-controls .search-forms button {
+    vertical-align: middle;
+}
+.map-controls .search-forms #destination {
+    display: none;
+    margin-top: 5px;
+}
+.map-controls .search-forms #destination .twitter-typeahead::before {
+    color: #ccc;
+    content: "";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 16px;
+    left: 10px;
+    position: absolute;
+    top: 5px;
+    z-index: 99;
+}
+.map-controls .search-forms #origin .twitter-typeahead::before {
+    color: #ccc;
+    content: "";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 20px;
+    left: 10px;
+    position: absolute;
+    top: 2px;
+    z-index: 99;
+}
+.map-controls .search-forms #origin input, .map-controls .search-forms #destination input {
+    direction: ltr;
+    padding-left: 30px;
+}
+.map-controls .search-forms #origin .fa-exchange::before, .map-controls .search-forms #destination .fa-exchange::before {
+    transform: rotate(90deg);
+}
+.map-controls .search-forms #origin .fa-search, .map-controls .search-forms #origin .fa-exchange, .map-controls .search-forms #origin .fa-spinner, .map-controls .search-forms #destination .fa-search, .map-controls .search-forms #destination .fa-exchange, .map-controls .search-forms #destination .fa-spinner {
+    color: #59899e;
+    float: right;
+    font-size: 18px;
+    margin-top: 7px;
+}
+.map-controls .search-forms #origin .fa-search.disabled, .map-controls .search-forms #origin .fa-exchange.disabled, .map-controls .search-forms #origin .fa-spinner.disabled, .map-controls .search-forms #destination .fa-search.disabled, .map-controls .search-forms #destination .fa-exchange.disabled, .map-controls .search-forms #destination .fa-spinner.disabled {
+    color: #e9e9e9;
+    opacity: 0.5;
+}
+.map-controls .search-forms #origin .fa-search.enabled:hover, .map-controls .search-forms #origin .fa-exchange.enabled:hover, .map-controls .search-forms #origin .fa-spinner.enabled:hover, .map-controls .search-forms #destination .fa-search.enabled:hover, .map-controls .search-forms #destination .fa-exchange.enabled:hover, .map-controls .search-forms #destination .fa-spinner.enabled:hover {
+    color: #93c4d3;
+    cursor: pointer;
+}
+.map-controls .search-forms #origin .input-container, .map-controls .search-forms #destination .input-container {
+    padding-right: 28px;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead, .map-controls .search-forms #destination .input-container .twitter-typeahead {
+    width: 100%;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu {
+    width: 100%;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 2px;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestions.waze-search .tt-suggestion:first-of-type, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestions.waze-search .tt-suggestion:first-of-type {
+    border-top: 1px solid #ccc;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion {
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion p, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion p {
+    margin-bottom: 0;
+    padding: 6px 20px;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion p .name, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion p .name {
+    color: black;
+    margin-right: 5px;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion p .rest, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion p .rest {
+    color: #9a9a9a;
+    font-size: 11px;
+    font-weight: bold;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-cursor, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-cursor {
+    background-color: whitesmoke;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion:last-of-type, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dropdown-menu > div .tt-suggestion:last-of-type {
+    border-bottom: medium none;
+}
+.map-controls .search-forms #origin .input-container .twitter-typeahead .tt-dataset-places, .map-controls .search-forms #destination .input-container .twitter-typeahead .tt-dataset-places {
+    background-color: white;
+}
+.map-controls .search-forms .buttons {
+    text-align: right;
+}
+.iframe .leaflet-control-permalink {
+    display: none;
+}
+.iframe .page-contents {
+    padding: 0;
+}
+.iframe .container {
+    width: auto !important;
+}
+.iframe #broad-header {
+    background-color: #91c4d5;
+    box-shadow: 0 1px 3px 0 #59899e;
+    color: #fff;
+    height: 40px;
+    line-height: 43px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+.iframe #logo-img {
+    background-image: url("/assets/iframe/sprite-s57d99a394a-1b10ac792628ee65fec84c3fc2cf6815.png");
+    background-position: 0 -158px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 15px;
+    margin: 13px 20px;
+    width: 60px;
+}
+@media not all, not all, not all {
+.iframe #logo-img {
+    background-image: url("/assets/iframe/sprite-retina-s8717a7c3c3-d2a1aa1f3fc1d535882f6b5942cc4fe4.png");
+    background-position: 0 -158px;
+    background-size: 108px auto;
+}
+}
+.iframe #broad-header-right {
+    background-color: #76abbd;
+    color: #d4e7ed;
+    font-size: 11px;
+    height: inherit;
+    padding: 0 20px;
+    text-transform: uppercase;
+    width: 190px;
+}
+.iframe #broad-header-right .downlaod-buttons a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #d4e7ed;
+    display: block;
+    float: right;
+    font-family: FontAwesome;
+    font-size: 20px;
+    height: auto;
+    margin-left: 9px;
+    text-decoration: none;
+    width: auto;
+}
+.iframe #broad-header-right .downlaod-buttons a.download-android::before {
+    content: "";
+}
+.iframe #broad-header-right .downlaod-buttons a.download-ios::before {
+    content: "";
+}
+.iframe #broad-header-right .downlaod-buttons a.download-wp::before {
+    content: "";
+}
+.iframe #broad-header-right .downlaod-buttons a:hover {
+    color: #fff;
+}
+.iframe #broad-header-right .download-text {
+    float: right;
+    font-weight: 600;
+    margin-right: 7px;
+}
+.iframe #broad-footer {
+    background-color: #e0f0f5;
+    color: #59899e;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 12px 19px 16px;
+    position: relative;
+    z-index: 1000;
+}
+.iframe #broad-footer-text {
+    display: none;
+}
+.iframe #join-btn {
+    display: none;
+    margin-top: 8px;
+    position: relative;
+}
+.iframe .popover {
+    border: 0 none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    color: #3d3d3d;
+    left: 19px !important;
+}
+.iframe .popover .arrow {
+    border: 0 none;
+    height: 11px;
+    overflow: hidden;
+    width: 24px;
+}
+.iframe .popover .arrow::after {
+    background-color: #fff;
+    border: 0 none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    height: 15px;
+    left: 15px;
+    position: absolute;
+    top: -9px;
+    transform: rotate(45deg);
+    width: 15px;
+}
+.iframe .leaflet-container .leaflet-control .leaflet-control-zoom-in, .iframe .leaflet-container .leaflet-control .leaflet-control-zoom-out {
+    height: 30px;
+    width: 30px;
+}
+.iframe .leaflet-container .leaflet-control.leaflet-control-copyright {
+    color: #9a9a9a;
+    font-size: 10px;
+    padding: 5px 15px;
+}
+.iframe .leaflet-container .waze-search-marker {
+    display: none;
+}
+.iframe .leaflet-container .waze-search-marker.show-marker {
+    display: block;
+}
+.iframe #join-btn:hover {
+    background-color: #99cbda;
+}
+.iframe #join-btn.clicked {
+    background-color: #87bbcb;
+}
+.iframe #join-popup-head {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.iframe .join-imgs::before, .iframe .join-imgs::after {
+    content: " ";
+    display: table;
+}
+.iframe .join-imgs::after {
+    clear: both;
+}
+.iframe #join-img-mywaze {
+    background-image: url("/assets/iframe/sprite-s57d99a394a-1b10ac792628ee65fec84c3fc2cf6815.png");
+    background-position: 0 -173px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 63px;
+    width: 95px;
+}
+@media not all, not all, not all {
+.iframe #join-img-mywaze {
+    background-image: url("/assets/iframe/sprite-retina-s8717a7c3c3-d2a1aa1f3fc1d535882f6b5942cc4fe4.png");
+    background-position: 0 -173px;
+    background-size: 108px auto;
+}
+}
+.iframe #join-img-arr {
+    color: #57899f;
+    font-size: 17px;
+    line-height: 63px;
+    text-align: center;
+    width: 33px;
+}
+.iframe #join-img-groups {
+    background-image: url("/assets/iframe/sprite-s57d99a394a-1b10ac792628ee65fec84c3fc2cf6815.png");
+    background-position: 0 -120px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 38px;
+    margin-top: 13px;
+    width: 108px;
+}
+@media not all, not all, not all {
+.iframe #join-img-groups {
+    background-image: url("/assets/iframe/sprite-retina-s8717a7c3c3-d2a1aa1f3fc1d535882f6b5942cc4fe4.png");
+    background-position: 0 -120px;
+    background-size: 108px auto;
+}
+}
+.iframe #join-popup-dl {
+    margin-bottom: 8px;
+}
+.iframe #join-popup-dl a {
+    text-decoration: underline;
+}
+.iframe #join-popup-exp {
+    margin-top: 8px;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.clearfix::before, .clearfix::after {
+    content: "";
+    display: table;
+}
+.clearfix::after {
+    clear: both;
+}
+.popup-header {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 25px;
+}
+.popup-complex .popup-header {
+    margin-bottom: 15px;
+}
+.popup-header-locator {
+    background-color: #e9e9e9;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor: pointer;
+    height: 25px;
+    position: absolute;
+    width: 25px;
+}
+.popup-header-locator::before {
+    background-image: url("/assets/livemap/popup/view@2x-0b74c3a4d72eba586810d91fba94e375.png");
+    background-size: 15px 15px;
+    content: "";
+    height: 15px;
+    left: 5px;
+    position: absolute;
+    top: 5px;
+    width: 15px;
+}
+.popup-header-page {
+    background-color: #f3f3f3;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #9a9a9a;
+    font-size: 10px;
+    font-weight: 700;
+    height: 25px;
+    line-height: 15px;
+    padding: 5px 0;
+    text-align: center;
+}
+.popup-image {
+    height: 135px;
+    margin: 15px auto;
+    overflow: hidden;
+    position: relative;
+    width: 190px;
+}
+.popup-item .popup-image {
+    margin-top: 0;
+}
+img.popup-image-thumbnail {
+    display: none;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100% !important;
+}
+.popup-details {
+    font-size: 13px;
+    line-height: 20px;
+    padding: 0 15px;
+}
+.popup-details-title {
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0;
+}
+p.popup-details-description {
+    line-height: 15px;
+    margin: 0;
+    padding: 10px 0;
+}
+.popup-details-reporter {
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 18px;
+}
+.popup-details-reporter-group {
+    height: 25px;
+    margin-right: 10px;
+    margin-top: 4px;
+    width: 25px;
+}
+.popup-details-reporter-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 155px;
+}
+.popup-details-report, .popup-details-time {
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 12px;
+}
+.popup-details-report {
+    color: #9a9a9a;
+}
+.popup-details-time {
+    color: #3d3d3d;
+}
+.popup-details-reports {
+    padding: 10px 0;
+}
+.popup-metrics {
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 19px;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    text-transform: uppercase;
+}
+.popup-metrics-comments::before, .popup-metrics-likes::before {
+    background-size: 19px 16px;
+    content: "";
+    float: left;
+    height: 16px;
+    margin-right: 4px;
+    width: 19px;
+}
+.popup-metrics-comments {
+    cursor: pointer;
+}
+.popup-metrics-comments::before {
+    background-image: url("/assets/livemap/popup/comment-blue@2x-5f06530fb0a4494ded305ae681789df6.png");
+}
+.popup-metrics-comments.none {
+    cursor: default;
+}
+.popup-metrics-comments.none::before {
+    background-image: url("/assets/livemap/popup/comment-black@2x-a962814907e51c35b7f6c97f71fe8c17.png");
+}
+.popup-metrics-likes {
+    margin-left: 10px;
+}
+.popup-metrics-likes::before {
+    background-image: url("/assets/livemap/popup/thanks@2x-2735381b65b30d4b167a7d0fab311c0d.png");
+}
+.popup-comments {
+    border-radius: 0 0 5px 5px;
+    display: none;
+    position: relative;
+}
+.popup-comments-tip-container {
+    margin-top: 8px;
+    position: relative;
+}
+.popup-comments-tip-container::before, .popup-comments-tip-container::after {
+    content: "";
+    height: 0;
+    position: absolute;
+    width: 0;
+}
+.popup-comments-tip-container::before {
+    border-bottom: 8px solid #e9e9e9;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    left: 15px;
+    top: -6px;
+}
+.popup-comments-tip-container::after {
+    border-bottom: 6px solid #f3f3f3;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    left: 17px;
+    top: -4px;
+}
+.popup-comments-container {
+    background-color: #f3f3f3;
+    border-top: 2px solid #e9e9e9;
+    max-height: 115px;
+    overflow: auto;
+    padding: 0 15px;
+}
+.popup-comments-item {
+    border-bottom: 2px solid #e9e9e9;
+    font-size: 10px;
+    padding: 15px 0;
+}
+.popup-comments-item:last-child {
+    border-bottom: medium none;
+}
+.popup-pagination {
+    margin: 10px;
+}
+.popup-pagination-left, .popup-pagination-right {
+    background-color: #d4e7ed;
+    border-bottom: 2px solid #99cbda;
+    border-radius: 5px;
+    color: #59899e;
+    cursor: pointer;
+    height: 20px;
+    text-align: center;
+    width: 95px;
+}
+.popup-pagination-right {
+    margin-left: 10px;
+}
+.popup-carousel {
+    overflow: hidden;
+}
+.popup-carousel-item:first-child .popup-pagination-left {
+    background-color: #e9e9e9;
+    border-bottom-color: #c2c2c2;
+    color: #c2c2c2;
+    cursor: default;
+}
+.popup-carousel-item:last-child .popup-pagination-right {
+    background-color: #e9e9e9;
+    border-bottom-color: #c2c2c2;
+    color: #c2c2c2;
+    cursor: default;
+}
+.leaflet-popup-tip.expanded {
+    background-color: #f3f3f3;
+}
+.alert-popup a.leaflet-popup-close-button {
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 0;
+    right: 5px;
+    top: 0;
+}
+.zoom-big-pin .leaflet-popup-tip-container {
+    margin-bottom: 68px;
+}
+.zoom-medium-pin .leaflet-popup-tip-container {
+    margin-bottom: 50px;
+}
+.zoom-small-pin .leaflet-popup-tip-container {
+    margin-bottom: 38px;
+}
+@keyframes pop {
+0% {
+    transform: scale(0, 0);
+}
+70% {
+    transform: scale(1.3, 1.3);
+}
+100% {
+    transform: scale(1, 1);
+}
+}
+@keyframes pop-fade {
+0% {
+    transform: scale(0, 0);
+}
+50% {
+    transform: scale(2, 2);
+}
+100% {
+    opacity: 0;
+    transform: scale(3, 3);
+}
+}
+body.livemap .waze-header {
+    position: relative;
+    z-index: 10;
+}
+body.livemap .container.footer {
+    display: none;
+}
+body.livemap .container.livemap {
+    width: 100%;
+}
+.leaflet-control-container .leaflet-top {
+    top: 9px;
+}
+@media (min-width: 768px) and (max-width: 979px) {
+.leaflet-control-container .leaflet-top {
+    top: 49px;
+}
+}
+@media (max-width: 767px) {
+.leaflet-control-container .leaflet-top {
+    top: 19px;
+}
+}
+.leaflet-control-container .leaflet-bottom {
+    bottom: 0;
+}
+.leaflet-control-container .leaflet-bottom.leaflet-left {
+    left: 0;
+    z-index: 999;
+}
+.leaflet-control-container .leaflet-left {
+    left: 10px;
+    right: auto;
+}
+.leaflet-control-container .leaflet-left .leaflet-control {
+    float: left;
+    margin-left: 10px;
+    margin-right: 0;
+}
+.leaflet-control-container .leaflet-right {
+    left: auto;
+    right: 0;
+}
+.leaflet-control-container .leaflet-right .leaflet-control {
+    float: right;
+    margin-left: 0;
+    margin-right: 10px;
+}
+#map.fullscreen {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 61px;
+    z-index: 1;
+}
+#map path.route {
+    stroke-opacity: 0.7;
+    stroke-width: 5px;
+}
+#map path.route.route_0 {
+    stroke: #7676f9;
+}
+#map path.route.route_1 {
+    stroke: #ff449c;
+}
+#map path.route.route_2 {
+    stroke: #00d7cf;
+}
+#map path.route.route_3 {
+    stroke: #f8bf16;
+}
+#map path.route.route_4 {
+    stroke: #599e5c;
+}
+#map path.route.route_5 {
+    stroke: #ed503b;
+}
+#map path.route.active {
+    stroke-opacity: 1;
+    stroke-width: 7px;
+}
+#map path.route.outline {
+    stroke: #3d3d3d;
+    stroke-width: 7px;
+}
+#map path.route.outline.active {
+    stroke-width: 9px;
+}
+#map.iframe {
+    box-sizing: border-box;
+}
+#livemap-error {
+    position: absolute;
+    right: 20px;
+    top: 19px;
+    z-index: 10;
+}
+.irregularity-filter-box {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: right 0.3s ease 0s;
+    width: 400px;
+}
+.irregularity-filter-box.away {
+    right: 400px;
+}
+.irregularity-filter-box h1, .irregularity-filter-box p {
+    margin: 0;
+}
+.irregularity-filter-box header h1 {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.irregularity-filter-box header, .irregularity-filter-box .routes > li {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}
+.irregularity-filter-box label.control-label.checkbox input[type="checkbox"] {
+    margin-left: 0;
+}
+.irregularity-filter-box .controls label.checkbox {
+    font-weight: 400;
+}
+.irregularity-filter-box .reset-filter-link {
+    float: right;
+    margin-right: 20px;
+}
+.waze-search-marker {
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    background-image: url("/assets/livemap/pin-29f6c2f37106dcdf17476af5cffae16c.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 43px;
+    margin-left: -17.5px;
+    margin-top: -38.5px;
+    width: 35px;
+}
+@media not all, not all, not all, not all {
+.waze-search-marker {
+    background-image: url("/assets/livemap/pin@2x-72bfcbab6b04172ad1454fcd2623a034.png");
+}
+}
+@media not all, only screen and (-moz-device-pixel-ratio: 1.5), not all, not all {
+.waze-search-marker {
+    background-image: url("/assets/livemap/pin@2x-72bfcbab6b04172ad1454fcd2623a034.png");
+}
+}
+.waze-search-marker.to {
+    background-image: url("/assets/livemap/flag-132096604a348024852fe7e3e28f75ad.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 38px;
+    margin-left: 0;
+    margin-top: -38px;
+    width: 32px;
+}
+@media not all, not all, not all, not all {
+.waze-search-marker.to {
+    background-image: url("/assets/livemap/flag@2x-1138f001f09d90e5f285da23a955e287.png");
+}
+}
+@media not all, only screen and (-moz-device-pixel-ratio: 1.5), not all, not all {
+.waze-search-marker.to {
+    background-image: url("/assets/livemap/flag@2x-1138f001f09d90e5f285da23a955e287.png");
+}
+}
+.road-alert.waze-marker-icon.type-accident.big-pin {
+    background-image: url("/assets/livemap/alerts/accident-l@2x-d387c0b0fa023f0b964dd96ec9729ba4.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-accident.big-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/accident-lc@2x-e35ad4d209d770ae9ceb5f8d60e9608c.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-accident.big-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/accident-lc2@2x-d7464cfa1e604b56632a883c5f3a7518.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-accident.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-accident.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-accident.medium-pin {
+    background-image: url("/assets/livemap/alerts/accident-l@2x-d387c0b0fa023f0b964dd96ec9729ba4.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-accident.medium-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/accident-lc@2x-e35ad4d209d770ae9ceb5f8d60e9608c.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-accident.medium-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/accident-lc2@2x-d7464cfa1e604b56632a883c5f3a7518.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-accident.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-accident.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-accident.small-pin {
+    background-image: url("/assets/livemap/alerts/accident-l@2x-d387c0b0fa023f0b964dd96ec9729ba4.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-accident.small-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/accident-lc@2x-e35ad4d209d770ae9ceb5f8d60e9608c.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-accident.small-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/accident-lc2@2x-d7464cfa1e604b56632a883c5f3a7518.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-accident.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-accident.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-accident.big-dot {
+    background-color: #adadad;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-accident.medium-dot {
+    background-color: #adadad;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-accident.small-dot {
+    background-color: #adadad;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.big-pin {
+    background-image: url("/assets/livemap/alerts/chit_chat-l@2x-cfa87f65da109800b234029ded77b566.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.big-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/chit_chat-lc@2x-bdff128f5598584d9e2c3a3e72e720fc.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.big-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/chit_chat-lc2@2x-481661b7041bafc635dd134ef7c3dee1.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-chit_chat.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.medium-pin {
+    background-image: url("/assets/livemap/alerts/chit_chat-l@2x-cfa87f65da109800b234029ded77b566.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.medium-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/chit_chat-lc@2x-bdff128f5598584d9e2c3a3e72e720fc.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.medium-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/chit_chat-lc2@2x-481661b7041bafc635dd134ef7c3dee1.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-chit_chat.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.small-pin {
+    background-image: url("/assets/livemap/alerts/chit_chat-l@2x-cfa87f65da109800b234029ded77b566.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.small-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/chit_chat-lc@2x-bdff128f5598584d9e2c3a3e72e720fc.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.small-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/chit_chat-lc2@2x-481661b7041bafc635dd134ef7c3dee1.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-chit_chat.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.big-dot {
+    background-color: #7bd649;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.medium-dot {
+    background-color: #7bd649;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-chit_chat.small-dot {
+    background-color: #7bd649;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-construction.big-pin {
+    background-image: url("/assets/livemap/alerts/construction-l@2x-315f76571c396355fe468ab4abda0c64.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-construction.big-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/construction-lc@2x-37a1932cb4b45c16ea7aa4eb36a19653.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-construction.big-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/construction-lc2@2x-0f0253375dca0f567ceeb81685470748.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-construction.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-construction.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-construction.medium-pin {
+    background-image: url("/assets/livemap/alerts/construction-l@2x-315f76571c396355fe468ab4abda0c64.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-construction.medium-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/construction-lc@2x-37a1932cb4b45c16ea7aa4eb36a19653.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-construction.medium-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/construction-lc2@2x-0f0253375dca0f567ceeb81685470748.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-construction.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-construction.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-construction.small-pin {
+    background-image: url("/assets/livemap/alerts/construction-l@2x-315f76571c396355fe468ab4abda0c64.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-construction.small-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/construction-lc@2x-37a1932cb4b45c16ea7aa4eb36a19653.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-construction.small-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/construction-lc2@2x-0f0253375dca0f567ceeb81685470748.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-construction.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-construction.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-construction.big-dot {
+    background-color: #ffc262;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-construction.medium-dot {
+    background-color: #ffc262;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-construction.small-dot {
+    background-color: #ffc262;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-hazard.big-pin {
+    background-image: url("/assets/livemap/alerts/hazard-l@2x-61a2f1374cb4c6206482df13d4df65e4.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-hazard.big-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/hazard-lc@2x-30c72b3475739ebacc979c9ea820a38d.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-hazard.big-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/hazard-lc2@2x-ef3a7cfe93949629db640222597c66dc.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-hazard.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-hazard.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-hazard.medium-pin {
+    background-image: url("/assets/livemap/alerts/hazard-l@2x-61a2f1374cb4c6206482df13d4df65e4.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-hazard.medium-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/hazard-lc@2x-30c72b3475739ebacc979c9ea820a38d.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-hazard.medium-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/hazard-lc2@2x-ef3a7cfe93949629db640222597c66dc.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-hazard.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-hazard.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-hazard.small-pin {
+    background-image: url("/assets/livemap/alerts/hazard-l@2x-61a2f1374cb4c6206482df13d4df65e4.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-hazard.small-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/hazard-lc@2x-30c72b3475739ebacc979c9ea820a38d.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-hazard.small-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/hazard-lc2@2x-ef3a7cfe93949629db640222597c66dc.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-hazard.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-hazard.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-hazard.big-dot {
+    background-color: #ffc262;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-hazard.medium-dot {
+    background-color: #ffc262;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-hazard.small-dot {
+    background-color: #ffc262;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-jam.big-pin {
+    background-image: url("/assets/livemap/alerts/jam-l@2x-a2b341e25eed2699256b45048af36580.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-jam.big-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/jam-lc@2x-5b3ee8b69c76d6300860e39bc511a80f.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-jam.big-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/jam-lc2@2x-e0ac874966c2c56ab489982422358e94.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-jam.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-jam.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-jam.medium-pin {
+    background-image: url("/assets/livemap/alerts/jam-l@2x-a2b341e25eed2699256b45048af36580.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-jam.medium-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/jam-lc@2x-5b3ee8b69c76d6300860e39bc511a80f.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-jam.medium-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/jam-lc2@2x-e0ac874966c2c56ab489982422358e94.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-jam.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-jam.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-jam.small-pin {
+    background-image: url("/assets/livemap/alerts/jam-l@2x-a2b341e25eed2699256b45048af36580.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-jam.small-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/jam-lc@2x-5b3ee8b69c76d6300860e39bc511a80f.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-jam.small-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/jam-lc2@2x-e0ac874966c2c56ab489982422358e94.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-jam.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-jam.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-jam.big-dot {
+    background-color: #df3b3b;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-jam.medium-dot {
+    background-color: #df3b3b;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-jam.small-dot {
+    background-color: #df3b3b;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-misc.big-pin {
+    background-image: url("/images/livemap/alerts/misc-l@2x.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-misc.big-pin.different-type-stack {
+    background-image: url("/images/livemap/alerts/misc-lc@2x.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-misc.big-pin.same-type-stack {
+    background-image: url("/images/livemap/alerts/misc-lc2@2x.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-misc.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-misc.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-misc.medium-pin {
+    background-image: url("/images/livemap/alerts/misc-l@2x.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-misc.medium-pin.different-type-stack {
+    background-image: url("/images/livemap/alerts/misc-lc@2x.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-misc.medium-pin.same-type-stack {
+    background-image: url("/images/livemap/alerts/misc-lc2@2x.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-misc.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-misc.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-misc.small-pin {
+    background-image: url("/images/livemap/alerts/misc-l@2x.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-misc.small-pin.different-type-stack {
+    background-image: url("/images/livemap/alerts/misc-lc@2x.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-misc.small-pin.same-type-stack {
+    background-image: url("/images/livemap/alerts/misc-lc2@2x.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-misc.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-misc.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-misc.big-dot {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-misc.medium-dot {
+    background-color: white;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-misc.small-dot {
+    background-color: white;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-police.big-pin {
+    background-image: url("/assets/livemap/alerts/police-l@2x-c7de1de7bc0f866b211adb2a24308cbf.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-police.big-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/police-lc@2x-247b2f41bc89724cc581c98e1ac2dfbb.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-police.big-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/police-lc2@2x-bfd140df260d3dc5b9eb904c1079239e.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-police.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-police.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-police.medium-pin {
+    background-image: url("/assets/livemap/alerts/police-l@2x-c7de1de7bc0f866b211adb2a24308cbf.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-police.medium-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/police-lc@2x-247b2f41bc89724cc581c98e1ac2dfbb.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-police.medium-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/police-lc2@2x-bfd140df260d3dc5b9eb904c1079239e.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-police.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-police.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-police.small-pin {
+    background-image: url("/assets/livemap/alerts/police-l@2x-c7de1de7bc0f866b211adb2a24308cbf.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-police.small-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/police-lc@2x-247b2f41bc89724cc581c98e1ac2dfbb.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-police.small-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/police-lc2@2x-bfd140df260d3dc5b9eb904c1079239e.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-police.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-police.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-police.big-dot {
+    background-color: #75bfc5;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-police.medium-dot {
+    background-color: #75bfc5;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-police.small-dot {
+    background-color: #75bfc5;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-road_closed.big-pin {
+    background-image: url("/assets/livemap/alerts/road_closed-l@2x-5c8e77aa6e5e065c9540486eba35bb17.png");
+    background-size: 67px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 67px;
+}
+.road-alert.waze-marker-icon.type-road_closed.big-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/road_closed-lc@2x-547bc140903dd168b03edea86cc224ff.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-road_closed.big-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/road_closed-lc2@2x-df904cd60932643855734725e209a743.png");
+    background-size: 75px 80px;
+    height: 80px;
+    margin-left: -33px;
+    margin-top: -73px;
+    width: 75px;
+}
+.road-alert.waze-marker-icon.type-road_closed.big-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-road_closed.big-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 19px auto;
+    bottom: 20px;
+    content: "";
+    height: 19px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+}
+.road-alert.waze-marker-icon.type-road_closed.medium-pin {
+    background-image: url("/assets/livemap/alerts/road_closed-l@2x-5c8e77aa6e5e065c9540486eba35bb17.png");
+    background-size: 50px 60px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -54.75px;
+    width: 50px;
+}
+.road-alert.waze-marker-icon.type-road_closed.medium-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/road_closed-lc@2x-547bc140903dd168b03edea86cc224ff.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-road_closed.medium-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/road_closed-lc2@2x-df904cd60932643855734725e209a743.png");
+    background-size: 56px 60px;
+    height: 60px;
+    margin-left: -24.75px;
+    margin-top: -54.75px;
+    width: 56px;
+}
+.road-alert.waze-marker-icon.type-road_closed.medium-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-road_closed.medium-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 14px auto;
+    bottom: 15px;
+    content: "";
+    height: 14px;
+    left: 0;
+    position: absolute;
+    width: 14px;
+}
+.road-alert.waze-marker-icon.type-road_closed.small-pin {
+    background-image: url("/assets/livemap/alerts/road_closed-l@2x-5c8e77aa6e5e065c9540486eba35bb17.png");
+    background-size: 40px 48px;
+    height: 48px;
+    margin-left: -20px;
+    margin-top: -43.8px;
+    width: 40px;
+}
+.road-alert.waze-marker-icon.type-road_closed.small-pin.different-type-stack {
+    background-image: url("/assets/livemap/alerts/road_closed-lc@2x-547bc140903dd168b03edea86cc224ff.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-road_closed.small-pin.same-type-stack {
+    background-image: url("/assets/livemap/alerts/road_closed-lc2@2x-df904cd60932643855734725e209a743.png");
+    background-size: 45px 48px;
+    height: 48px;
+    margin-left: -19.8px;
+    margin-top: -43.8px;
+    width: 45px;
+}
+.road-alert.waze-marker-icon.type-road_closed.small-pin.alert-with-image {
+    position: relative;
+}
+.road-alert.waze-marker-icon.type-road_closed.small-pin.alert-with-image::before {
+    background-image: url("/assets/livemap/alerts/badges/pic@2x-c93a73e28b0e9eee554294ac3598ceda.png");
+    background-size: 11px auto;
+    bottom: 12px;
+    content: "";
+    height: 11px;
+    left: 0;
+    position: absolute;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-road_closed.big-dot {
+    background-color: #ffa88d;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 0 rgba(61, 61, 61, 0.4);
+    height: 11px;
+    left: -6px;
+    position: absolute;
+    top: -5px;
+    width: 11px;
+}
+.road-alert.waze-marker-icon.type-road_closed.medium-dot {
+    background-color: #ffa88d;
+    border-radius: 50%;
+    height: 5px;
+    left: -3px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.road-alert.waze-marker-icon.type-road_closed.small-dot {
+    background-color: #ffa88d;
+    border-radius: 50%;
+    height: 4px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 4px;
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_stand_still_traffic {
+    background-image: url("/assets/livemap/alerts/jam-l@2x-a2b341e25eed2699256b45048af36580.png");
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_stand_still_traffic.stacked {
+    background-image: url("/assets/livemap/alerts/jam-lc@2x-5b3ee8b69c76d6300860e39bc511a80f.png");
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_stand_still_traffic.big-dot, .road-alert.waze-marker-icon.type-jam.subtype-jam_stand_still_traffic.medium-dot, .road-alert.waze-marker-icon.type-jam.subtype-jam_stand_still_traffic.small-dot {
+    background-color: #c76757;
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_heavy_traffic {
+    background-image: url("/assets/livemap/alerts/jam_heavy-l@2x-449e6637a97e3833a9b46cc352c0374c.png");
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_heavy_traffic.stacked {
+    background-image: url("/assets/livemap/alerts/jam_heavy-lc@2x-4eb6dc5aac45640c0697dec483adde97.png");
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_heavy_traffic.big-dot, .road-alert.waze-marker-icon.type-jam.subtype-jam_heavy_traffic.medium-dot, .road-alert.waze-marker-icon.type-jam.subtype-jam_heavy_traffic.small-dot {
+    background-color: #e69b4f;
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_moderate_traffic {
+    background-image: url("/assets/livemap/alerts/jam_moderate-l@2x-fb96a6a931bd62922e50d8f0bd5104b1.png");
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_moderate_traffic.stacked {
+    background-image: url("/assets/livemap/alerts/jam_moderate-lc@2x-191a8231dfe72eae057cd875de88e329.png");
+}
+.road-alert.waze-marker-icon.type-jam.subtype-jam_moderate_traffic.big-dot, .road-alert.waze-marker-icon.type-jam.subtype-jam_moderate_traffic.medium-dot, .road-alert.waze-marker-icon.type-jam.subtype-jam_moderate_traffic.small-dot {
+    background-color: #f2d367;
+}
+.user.waze-marker-icon.xl-mood {
+    background-size: 50px 41px;
+    cursor: default;
+    height: 41px;
+    margin-left: -25px;
+    margin-top: -36px;
+    width: 50px;
+}
+.user.waze-marker-icon.xl-mood.mood-8bit {
+    background-image: url("/assets/livemap/moods/8bit@2x-999221532c52db351e5b89ff34416b63.png");
+}
+.user.waze-marker-icon.xl-mood.mood-LOL {
+    background-image: url("/assets/livemap/moods/LOL@2x-8f110b29e13cd7682ded55863b0d75ee.png");
+}
+.user.waze-marker-icon.xl-mood.mood-LOL-female {
+    background-image: url("/assets/livemap/moods/LOL-female@2x-00cfbc3620425847358d0b20d72c1354.png");
+}
+.user.waze-marker-icon.xl-mood.mood-baby {
+    background-image: url("/assets/livemap/moods/baby@2x-a284aff6598dc619845a89830aa2523c.png");
+}
+.user.waze-marker-icon.xl-mood.mood-cat {
+    background-image: url("/assets/livemap/moods/cat@2x-39102b499168dc5cbc2f6a70912e5d02.png");
+}
+.user.waze-marker-icon.xl-mood.mood-cool {
+    background-image: url("/assets/livemap/moods/cool@2x-99d6be45e646f32593ec31e3c2260d82.png");
+}
+.user.waze-marker-icon.xl-mood.mood-cool-female {
+    background-image: url("/assets/livemap/moods/cool-female@2x-6e69517055f8cccd8e77d57bcd097d22.png");
+}
+.user.waze-marker-icon.xl-mood.mood-dino {
+    background-image: url("/assets/livemap/moods/dino@2x-e14302d557eb17ce44058b6220fcbc7f.png");
+}
+.user.waze-marker-icon.xl-mood.mood-dog {
+    background-image: url("/assets/livemap/moods/dog@2x-91069b0c4dccab3678909c215f1f5ce5.png");
+}
+.user.waze-marker-icon.xl-mood.mood-duck {
+    background-image: url("/assets/livemap/moods/duck@2x-5fe33d3e0a35c3f13c50f656a12eab42.png");
+}
+.user.waze-marker-icon.xl-mood.mood-duck-female {
+    background-image: url("/assets/livemap/moods/duck-female@2x-c37e2b4fcfb0971ed0fb9fb7e4efebc8.png");
+}
+.user.waze-marker-icon.xl-mood.mood-frustrated {
+    background-image: url("/assets/livemap/moods/frustrated@2x-8199163501a654517eaffc7061262b9b.png");
+}
+.user.waze-marker-icon.xl-mood.mood-frustrated-female {
+    background-image: url("/assets/livemap/moods/frustrated-female@2x-0727ab081da54e998f8210cbbf5dfdc2.png");
+}
+.user.waze-marker-icon.xl-mood.mood-garbage-truck {
+    background-image: url("/assets/livemap/moods/garbage-truck@2x-8895404ca3a084bb22cff98631593b96.png");
+}
+.user.waze-marker-icon.xl-mood.mood-geek {
+    background-image: url("/assets/livemap/moods/geek@2x-1e62152c2096aed37ff59e6fd569cfb3.png");
+}
+.user.waze-marker-icon.xl-mood.mood-geek-female {
+    background-image: url("/assets/livemap/moods/geek-female@2x-563a6ea34ebb1252dfb8d639684e3743.png");
+}
+.user.waze-marker-icon.xl-mood.mood-happy {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.xl-mood.mood-happy-female {
+    background-image: url("/assets/livemap/moods/happy-female@2x-47d848bcbd84bfa702b385be466cce66.png");
+}
+.user.waze-marker-icon.xl-mood.mood-inlove {
+    background-image: url("/assets/livemap/moods/inlove@2x-ad6619ac8c878920cfd145b07ea413e8.png");
+}
+.user.waze-marker-icon.xl-mood.mood-inlove-female {
+    background-image: url("/assets/livemap/moods/inlove-female@2x-f67ff42c6b211d25c148bb6731ef7474.png");
+}
+.user.waze-marker-icon.xl-mood.mood-monster {
+    background-image: url("/assets/livemap/moods/monster@2x-f4fd6137f96251960c838bec6c09aa33.png");
+}
+.user.waze-marker-icon.xl-mood.mood-ninja {
+    background-image: url("/assets/livemap/moods/ninja@2x-fd52b768fef5e7ba3b0ed89344523977.png");
+}
+.user.waze-marker-icon.xl-mood.mood-ninja-female {
+    background-image: url("/assets/livemap/moods/ninja-female@2x-b67c828b89c5f8b201e5487b43632edd.png");
+}
+.user.waze-marker-icon.xl-mood.mood-peaceful {
+    background-image: url("/assets/livemap/moods/peaceful@2x-ae1f54a1caf56bc2b74cbc759c66b0f9.png");
+}
+.user.waze-marker-icon.xl-mood.mood-peaceful-female {
+    background-image: url("/assets/livemap/moods/peaceful-female@2x-72576888afe78e304291fcff56fa7a69.png");
+}
+.user.waze-marker-icon.xl-mood.mood-robot {
+    background-image: url("/assets/livemap/moods/robot@2x-71f4067f2f9323fc7af575a638c791ce.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sad {
+    background-image: url("/assets/livemap/moods/sad@2x-364c79f3a0e6f17b3297c798ad0f5379.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sad-female {
+    background-image: url("/assets/livemap/moods/sad-female@2x-638a2684c9a7dfbbc0e367964155f0f9.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sarcastic {
+    background-image: url("/assets/livemap/moods/sarcastic@2x-afab6c1f895c0d522a56a00cab7d9ee6.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sarcastic-female {
+    background-image: url("/assets/livemap/moods/sarcastic-female@2x-7d8a280e2951cc83b067507f7a015992.png");
+}
+.user.waze-marker-icon.xl-mood.mood-shy {
+    background-image: url("/assets/livemap/moods/shy@2x-a708868478b8bdca189d097db0bae89c.png");
+}
+.user.waze-marker-icon.xl-mood.mood-shy-female {
+    background-image: url("/assets/livemap/moods/shy-female@2x-738eddc7444fddd0b5e65ff9c967e663.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sick {
+    background-image: url("/assets/livemap/moods/sick@2x-f445448d2553fa4bf97af99f6253b239.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sick-female {
+    background-image: url("/assets/livemap/moods/sick-female@2x-88713333637e54662254634efa0d5ff2.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sleepy {
+    background-image: url("/assets/livemap/moods/sleepy@2x-023e338fdf445c841da1b7570bb82974.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sleepy-female {
+    background-image: url("/assets/livemap/moods/sleepy-female@2x-4c72f1a48c8f57e223097f733caf18b9.png");
+}
+.user.waze-marker-icon.xl-mood.mood-snow-plow {
+    background-image: url("/assets/livemap/moods/snow-plow@2x-9ee567a7bfcf531c10449e5ed2b22747.png");
+}
+.user.waze-marker-icon.xl-mood.mood-speedy {
+    background-image: url("/assets/livemap/moods/speedy@2x-992c9b8a2e392a01ccdd4dc78cf39645.png");
+}
+.user.waze-marker-icon.xl-mood.mood-speedy-female {
+    background-image: url("/assets/livemap/moods/speedy-female@2x-bee9cfbc32d9ad13bf89da11c8179c83.png");
+}
+.user.waze-marker-icon.xl-mood.mood-sunny {
+    background-image: url("/assets/livemap/moods/sunny@2x-44ee7e12d88866eae760480a9b2b00f2.png");
+}
+.user.waze-marker-icon.xl-mood.mood-zombie {
+    background-image: url("/assets/livemap/moods/zombie@2x-cdd6166ed4e7737572dca04a55480ed0.png");
+}
+.user.waze-marker-icon.xl-mood.marker-cluster {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.l-mood {
+    background-size: 37px 30px;
+    cursor: default;
+    height: 30px;
+    margin-left: -18px;
+    margin-top: -25px;
+    width: 37px;
+}
+.user.waze-marker-icon.l-mood.mood-8bit {
+    background-image: url("/assets/livemap/moods/8bit@2x-999221532c52db351e5b89ff34416b63.png");
+}
+.user.waze-marker-icon.l-mood.mood-LOL {
+    background-image: url("/assets/livemap/moods/LOL@2x-8f110b29e13cd7682ded55863b0d75ee.png");
+}
+.user.waze-marker-icon.l-mood.mood-LOL-female {
+    background-image: url("/assets/livemap/moods/LOL-female@2x-00cfbc3620425847358d0b20d72c1354.png");
+}
+.user.waze-marker-icon.l-mood.mood-baby {
+    background-image: url("/assets/livemap/moods/baby@2x-a284aff6598dc619845a89830aa2523c.png");
+}
+.user.waze-marker-icon.l-mood.mood-cat {
+    background-image: url("/assets/livemap/moods/cat@2x-39102b499168dc5cbc2f6a70912e5d02.png");
+}
+.user.waze-marker-icon.l-mood.mood-cool {
+    background-image: url("/assets/livemap/moods/cool@2x-99d6be45e646f32593ec31e3c2260d82.png");
+}
+.user.waze-marker-icon.l-mood.mood-cool-female {
+    background-image: url("/assets/livemap/moods/cool-female@2x-6e69517055f8cccd8e77d57bcd097d22.png");
+}
+.user.waze-marker-icon.l-mood.mood-dino {
+    background-image: url("/assets/livemap/moods/dino@2x-e14302d557eb17ce44058b6220fcbc7f.png");
+}
+.user.waze-marker-icon.l-mood.mood-dog {
+    background-image: url("/assets/livemap/moods/dog@2x-91069b0c4dccab3678909c215f1f5ce5.png");
+}
+.user.waze-marker-icon.l-mood.mood-duck {
+    background-image: url("/assets/livemap/moods/duck@2x-5fe33d3e0a35c3f13c50f656a12eab42.png");
+}
+.user.waze-marker-icon.l-mood.mood-duck-female {
+    background-image: url("/assets/livemap/moods/duck-female@2x-c37e2b4fcfb0971ed0fb9fb7e4efebc8.png");
+}
+.user.waze-marker-icon.l-mood.mood-frustrated {
+    background-image: url("/assets/livemap/moods/frustrated@2x-8199163501a654517eaffc7061262b9b.png");
+}
+.user.waze-marker-icon.l-mood.mood-frustrated-female {
+    background-image: url("/assets/livemap/moods/frustrated-female@2x-0727ab081da54e998f8210cbbf5dfdc2.png");
+}
+.user.waze-marker-icon.l-mood.mood-garbage-truck {
+    background-image: url("/assets/livemap/moods/garbage-truck@2x-8895404ca3a084bb22cff98631593b96.png");
+}
+.user.waze-marker-icon.l-mood.mood-geek {
+    background-image: url("/assets/livemap/moods/geek@2x-1e62152c2096aed37ff59e6fd569cfb3.png");
+}
+.user.waze-marker-icon.l-mood.mood-geek-female {
+    background-image: url("/assets/livemap/moods/geek-female@2x-563a6ea34ebb1252dfb8d639684e3743.png");
+}
+.user.waze-marker-icon.l-mood.mood-happy {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.l-mood.mood-happy-female {
+    background-image: url("/assets/livemap/moods/happy-female@2x-47d848bcbd84bfa702b385be466cce66.png");
+}
+.user.waze-marker-icon.l-mood.mood-inlove {
+    background-image: url("/assets/livemap/moods/inlove@2x-ad6619ac8c878920cfd145b07ea413e8.png");
+}
+.user.waze-marker-icon.l-mood.mood-inlove-female {
+    background-image: url("/assets/livemap/moods/inlove-female@2x-f67ff42c6b211d25c148bb6731ef7474.png");
+}
+.user.waze-marker-icon.l-mood.mood-monster {
+    background-image: url("/assets/livemap/moods/monster@2x-f4fd6137f96251960c838bec6c09aa33.png");
+}
+.user.waze-marker-icon.l-mood.mood-ninja {
+    background-image: url("/assets/livemap/moods/ninja@2x-fd52b768fef5e7ba3b0ed89344523977.png");
+}
+.user.waze-marker-icon.l-mood.mood-ninja-female {
+    background-image: url("/assets/livemap/moods/ninja-female@2x-b67c828b89c5f8b201e5487b43632edd.png");
+}
+.user.waze-marker-icon.l-mood.mood-peaceful {
+    background-image: url("/assets/livemap/moods/peaceful@2x-ae1f54a1caf56bc2b74cbc759c66b0f9.png");
+}
+.user.waze-marker-icon.l-mood.mood-peaceful-female {
+    background-image: url("/assets/livemap/moods/peaceful-female@2x-72576888afe78e304291fcff56fa7a69.png");
+}
+.user.waze-marker-icon.l-mood.mood-robot {
+    background-image: url("/assets/livemap/moods/robot@2x-71f4067f2f9323fc7af575a638c791ce.png");
+}
+.user.waze-marker-icon.l-mood.mood-sad {
+    background-image: url("/assets/livemap/moods/sad@2x-364c79f3a0e6f17b3297c798ad0f5379.png");
+}
+.user.waze-marker-icon.l-mood.mood-sad-female {
+    background-image: url("/assets/livemap/moods/sad-female@2x-638a2684c9a7dfbbc0e367964155f0f9.png");
+}
+.user.waze-marker-icon.l-mood.mood-sarcastic {
+    background-image: url("/assets/livemap/moods/sarcastic@2x-afab6c1f895c0d522a56a00cab7d9ee6.png");
+}
+.user.waze-marker-icon.l-mood.mood-sarcastic-female {
+    background-image: url("/assets/livemap/moods/sarcastic-female@2x-7d8a280e2951cc83b067507f7a015992.png");
+}
+.user.waze-marker-icon.l-mood.mood-shy {
+    background-image: url("/assets/livemap/moods/shy@2x-a708868478b8bdca189d097db0bae89c.png");
+}
+.user.waze-marker-icon.l-mood.mood-shy-female {
+    background-image: url("/assets/livemap/moods/shy-female@2x-738eddc7444fddd0b5e65ff9c967e663.png");
+}
+.user.waze-marker-icon.l-mood.mood-sick {
+    background-image: url("/assets/livemap/moods/sick@2x-f445448d2553fa4bf97af99f6253b239.png");
+}
+.user.waze-marker-icon.l-mood.mood-sick-female {
+    background-image: url("/assets/livemap/moods/sick-female@2x-88713333637e54662254634efa0d5ff2.png");
+}
+.user.waze-marker-icon.l-mood.mood-sleepy {
+    background-image: url("/assets/livemap/moods/sleepy@2x-023e338fdf445c841da1b7570bb82974.png");
+}
+.user.waze-marker-icon.l-mood.mood-sleepy-female {
+    background-image: url("/assets/livemap/moods/sleepy-female@2x-4c72f1a48c8f57e223097f733caf18b9.png");
+}
+.user.waze-marker-icon.l-mood.mood-snow-plow {
+    background-image: url("/assets/livemap/moods/snow-plow@2x-9ee567a7bfcf531c10449e5ed2b22747.png");
+}
+.user.waze-marker-icon.l-mood.mood-speedy {
+    background-image: url("/assets/livemap/moods/speedy@2x-992c9b8a2e392a01ccdd4dc78cf39645.png");
+}
+.user.waze-marker-icon.l-mood.mood-speedy-female {
+    background-image: url("/assets/livemap/moods/speedy-female@2x-bee9cfbc32d9ad13bf89da11c8179c83.png");
+}
+.user.waze-marker-icon.l-mood.mood-sunny {
+    background-image: url("/assets/livemap/moods/sunny@2x-44ee7e12d88866eae760480a9b2b00f2.png");
+}
+.user.waze-marker-icon.l-mood.mood-zombie {
+    background-image: url("/assets/livemap/moods/zombie@2x-cdd6166ed4e7737572dca04a55480ed0.png");
+}
+.user.waze-marker-icon.l-mood.marker-cluster {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.m-mood {
+    background-size: 30px 24px;
+    cursor: default;
+    height: 24px;
+    margin-left: -15px;
+    margin-top: -19px;
+    width: 30px;
+}
+.user.waze-marker-icon.m-mood.mood-8bit {
+    background-image: url("/assets/livemap/moods/8bit@2x-999221532c52db351e5b89ff34416b63.png");
+}
+.user.waze-marker-icon.m-mood.mood-LOL {
+    background-image: url("/assets/livemap/moods/LOL@2x-8f110b29e13cd7682ded55863b0d75ee.png");
+}
+.user.waze-marker-icon.m-mood.mood-LOL-female {
+    background-image: url("/assets/livemap/moods/LOL-female@2x-00cfbc3620425847358d0b20d72c1354.png");
+}
+.user.waze-marker-icon.m-mood.mood-baby {
+    background-image: url("/assets/livemap/moods/baby@2x-a284aff6598dc619845a89830aa2523c.png");
+}
+.user.waze-marker-icon.m-mood.mood-cat {
+    background-image: url("/assets/livemap/moods/cat@2x-39102b499168dc5cbc2f6a70912e5d02.png");
+}
+.user.waze-marker-icon.m-mood.mood-cool {
+    background-image: url("/assets/livemap/moods/cool@2x-99d6be45e646f32593ec31e3c2260d82.png");
+}
+.user.waze-marker-icon.m-mood.mood-cool-female {
+    background-image: url("/assets/livemap/moods/cool-female@2x-6e69517055f8cccd8e77d57bcd097d22.png");
+}
+.user.waze-marker-icon.m-mood.mood-dino {
+    background-image: url("/assets/livemap/moods/dino@2x-e14302d557eb17ce44058b6220fcbc7f.png");
+}
+.user.waze-marker-icon.m-mood.mood-dog {
+    background-image: url("/assets/livemap/moods/dog@2x-91069b0c4dccab3678909c215f1f5ce5.png");
+}
+.user.waze-marker-icon.m-mood.mood-duck {
+    background-image: url("/assets/livemap/moods/duck@2x-5fe33d3e0a35c3f13c50f656a12eab42.png");
+}
+.user.waze-marker-icon.m-mood.mood-duck-female {
+    background-image: url("/assets/livemap/moods/duck-female@2x-c37e2b4fcfb0971ed0fb9fb7e4efebc8.png");
+}
+.user.waze-marker-icon.m-mood.mood-frustrated {
+    background-image: url("/assets/livemap/moods/frustrated@2x-8199163501a654517eaffc7061262b9b.png");
+}
+.user.waze-marker-icon.m-mood.mood-frustrated-female {
+    background-image: url("/assets/livemap/moods/frustrated-female@2x-0727ab081da54e998f8210cbbf5dfdc2.png");
+}
+.user.waze-marker-icon.m-mood.mood-garbage-truck {
+    background-image: url("/assets/livemap/moods/garbage-truck@2x-8895404ca3a084bb22cff98631593b96.png");
+}
+.user.waze-marker-icon.m-mood.mood-geek {
+    background-image: url("/assets/livemap/moods/geek@2x-1e62152c2096aed37ff59e6fd569cfb3.png");
+}
+.user.waze-marker-icon.m-mood.mood-geek-female {
+    background-image: url("/assets/livemap/moods/geek-female@2x-563a6ea34ebb1252dfb8d639684e3743.png");
+}
+.user.waze-marker-icon.m-mood.mood-happy {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.m-mood.mood-happy-female {
+    background-image: url("/assets/livemap/moods/happy-female@2x-47d848bcbd84bfa702b385be466cce66.png");
+}
+.user.waze-marker-icon.m-mood.mood-inlove {
+    background-image: url("/assets/livemap/moods/inlove@2x-ad6619ac8c878920cfd145b07ea413e8.png");
+}
+.user.waze-marker-icon.m-mood.mood-inlove-female {
+    background-image: url("/assets/livemap/moods/inlove-female@2x-f67ff42c6b211d25c148bb6731ef7474.png");
+}
+.user.waze-marker-icon.m-mood.mood-monster {
+    background-image: url("/assets/livemap/moods/monster@2x-f4fd6137f96251960c838bec6c09aa33.png");
+}
+.user.waze-marker-icon.m-mood.mood-ninja {
+    background-image: url("/assets/livemap/moods/ninja@2x-fd52b768fef5e7ba3b0ed89344523977.png");
+}
+.user.waze-marker-icon.m-mood.mood-ninja-female {
+    background-image: url("/assets/livemap/moods/ninja-female@2x-b67c828b89c5f8b201e5487b43632edd.png");
+}
+.user.waze-marker-icon.m-mood.mood-peaceful {
+    background-image: url("/assets/livemap/moods/peaceful@2x-ae1f54a1caf56bc2b74cbc759c66b0f9.png");
+}
+.user.waze-marker-icon.m-mood.mood-peaceful-female {
+    background-image: url("/assets/livemap/moods/peaceful-female@2x-72576888afe78e304291fcff56fa7a69.png");
+}
+.user.waze-marker-icon.m-mood.mood-robot {
+    background-image: url("/assets/livemap/moods/robot@2x-71f4067f2f9323fc7af575a638c791ce.png");
+}
+.user.waze-marker-icon.m-mood.mood-sad {
+    background-image: url("/assets/livemap/moods/sad@2x-364c79f3a0e6f17b3297c798ad0f5379.png");
+}
+.user.waze-marker-icon.m-mood.mood-sad-female {
+    background-image: url("/assets/livemap/moods/sad-female@2x-638a2684c9a7dfbbc0e367964155f0f9.png");
+}
+.user.waze-marker-icon.m-mood.mood-sarcastic {
+    background-image: url("/assets/livemap/moods/sarcastic@2x-afab6c1f895c0d522a56a00cab7d9ee6.png");
+}
+.user.waze-marker-icon.m-mood.mood-sarcastic-female {
+    background-image: url("/assets/livemap/moods/sarcastic-female@2x-7d8a280e2951cc83b067507f7a015992.png");
+}
+.user.waze-marker-icon.m-mood.mood-shy {
+    background-image: url("/assets/livemap/moods/shy@2x-a708868478b8bdca189d097db0bae89c.png");
+}
+.user.waze-marker-icon.m-mood.mood-shy-female {
+    background-image: url("/assets/livemap/moods/shy-female@2x-738eddc7444fddd0b5e65ff9c967e663.png");
+}
+.user.waze-marker-icon.m-mood.mood-sick {
+    background-image: url("/assets/livemap/moods/sick@2x-f445448d2553fa4bf97af99f6253b239.png");
+}
+.user.waze-marker-icon.m-mood.mood-sick-female {
+    background-image: url("/assets/livemap/moods/sick-female@2x-88713333637e54662254634efa0d5ff2.png");
+}
+.user.waze-marker-icon.m-mood.mood-sleepy {
+    background-image: url("/assets/livemap/moods/sleepy@2x-023e338fdf445c841da1b7570bb82974.png");
+}
+.user.waze-marker-icon.m-mood.mood-sleepy-female {
+    background-image: url("/assets/livemap/moods/sleepy-female@2x-4c72f1a48c8f57e223097f733caf18b9.png");
+}
+.user.waze-marker-icon.m-mood.mood-snow-plow {
+    background-image: url("/assets/livemap/moods/snow-plow@2x-9ee567a7bfcf531c10449e5ed2b22747.png");
+}
+.user.waze-marker-icon.m-mood.mood-speedy {
+    background-image: url("/assets/livemap/moods/speedy@2x-992c9b8a2e392a01ccdd4dc78cf39645.png");
+}
+.user.waze-marker-icon.m-mood.mood-speedy-female {
+    background-image: url("/assets/livemap/moods/speedy-female@2x-bee9cfbc32d9ad13bf89da11c8179c83.png");
+}
+.user.waze-marker-icon.m-mood.mood-sunny {
+    background-image: url("/assets/livemap/moods/sunny@2x-44ee7e12d88866eae760480a9b2b00f2.png");
+}
+.user.waze-marker-icon.m-mood.mood-zombie {
+    background-image: url("/assets/livemap/moods/zombie@2x-cdd6166ed4e7737572dca04a55480ed0.png");
+}
+.user.waze-marker-icon.m-mood.marker-cluster {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.s-mood {
+    background-size: 25px 20px;
+    cursor: default;
+    height: 20px;
+    margin-left: -12px;
+    margin-top: -15px;
+    width: 25px;
+}
+.user.waze-marker-icon.s-mood.mood-8bit {
+    background-image: url("/assets/livemap/moods/8bit@2x-999221532c52db351e5b89ff34416b63.png");
+}
+.user.waze-marker-icon.s-mood.mood-LOL {
+    background-image: url("/assets/livemap/moods/LOL@2x-8f110b29e13cd7682ded55863b0d75ee.png");
+}
+.user.waze-marker-icon.s-mood.mood-LOL-female {
+    background-image: url("/assets/livemap/moods/LOL-female@2x-00cfbc3620425847358d0b20d72c1354.png");
+}
+.user.waze-marker-icon.s-mood.mood-baby {
+    background-image: url("/assets/livemap/moods/baby@2x-a284aff6598dc619845a89830aa2523c.png");
+}
+.user.waze-marker-icon.s-mood.mood-cat {
+    background-image: url("/assets/livemap/moods/cat@2x-39102b499168dc5cbc2f6a70912e5d02.png");
+}
+.user.waze-marker-icon.s-mood.mood-cool {
+    background-image: url("/assets/livemap/moods/cool@2x-99d6be45e646f32593ec31e3c2260d82.png");
+}
+.user.waze-marker-icon.s-mood.mood-cool-female {
+    background-image: url("/assets/livemap/moods/cool-female@2x-6e69517055f8cccd8e77d57bcd097d22.png");
+}
+.user.waze-marker-icon.s-mood.mood-dino {
+    background-image: url("/assets/livemap/moods/dino@2x-e14302d557eb17ce44058b6220fcbc7f.png");
+}
+.user.waze-marker-icon.s-mood.mood-dog {
+    background-image: url("/assets/livemap/moods/dog@2x-91069b0c4dccab3678909c215f1f5ce5.png");
+}
+.user.waze-marker-icon.s-mood.mood-duck {
+    background-image: url("/assets/livemap/moods/duck@2x-5fe33d3e0a35c3f13c50f656a12eab42.png");
+}
+.user.waze-marker-icon.s-mood.mood-duck-female {
+    background-image: url("/assets/livemap/moods/duck-female@2x-c37e2b4fcfb0971ed0fb9fb7e4efebc8.png");
+}
+.user.waze-marker-icon.s-mood.mood-frustrated {
+    background-image: url("/assets/livemap/moods/frustrated@2x-8199163501a654517eaffc7061262b9b.png");
+}
+.user.waze-marker-icon.s-mood.mood-frustrated-female {
+    background-image: url("/assets/livemap/moods/frustrated-female@2x-0727ab081da54e998f8210cbbf5dfdc2.png");
+}
+.user.waze-marker-icon.s-mood.mood-garbage-truck {
+    background-image: url("/assets/livemap/moods/garbage-truck@2x-8895404ca3a084bb22cff98631593b96.png");
+}
+.user.waze-marker-icon.s-mood.mood-geek {
+    background-image: url("/assets/livemap/moods/geek@2x-1e62152c2096aed37ff59e6fd569cfb3.png");
+}
+.user.waze-marker-icon.s-mood.mood-geek-female {
+    background-image: url("/assets/livemap/moods/geek-female@2x-563a6ea34ebb1252dfb8d639684e3743.png");
+}
+.user.waze-marker-icon.s-mood.mood-happy {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.s-mood.mood-happy-female {
+    background-image: url("/assets/livemap/moods/happy-female@2x-47d848bcbd84bfa702b385be466cce66.png");
+}
+.user.waze-marker-icon.s-mood.mood-inlove {
+    background-image: url("/assets/livemap/moods/inlove@2x-ad6619ac8c878920cfd145b07ea413e8.png");
+}
+.user.waze-marker-icon.s-mood.mood-inlove-female {
+    background-image: url("/assets/livemap/moods/inlove-female@2x-f67ff42c6b211d25c148bb6731ef7474.png");
+}
+.user.waze-marker-icon.s-mood.mood-monster {
+    background-image: url("/assets/livemap/moods/monster@2x-f4fd6137f96251960c838bec6c09aa33.png");
+}
+.user.waze-marker-icon.s-mood.mood-ninja {
+    background-image: url("/assets/livemap/moods/ninja@2x-fd52b768fef5e7ba3b0ed89344523977.png");
+}
+.user.waze-marker-icon.s-mood.mood-ninja-female {
+    background-image: url("/assets/livemap/moods/ninja-female@2x-b67c828b89c5f8b201e5487b43632edd.png");
+}
+.user.waze-marker-icon.s-mood.mood-peaceful {
+    background-image: url("/assets/livemap/moods/peaceful@2x-ae1f54a1caf56bc2b74cbc759c66b0f9.png");
+}
+.user.waze-marker-icon.s-mood.mood-peaceful-female {
+    background-image: url("/assets/livemap/moods/peaceful-female@2x-72576888afe78e304291fcff56fa7a69.png");
+}
+.user.waze-marker-icon.s-mood.mood-robot {
+    background-image: url("/assets/livemap/moods/robot@2x-71f4067f2f9323fc7af575a638c791ce.png");
+}
+.user.waze-marker-icon.s-mood.mood-sad {
+    background-image: url("/assets/livemap/moods/sad@2x-364c79f3a0e6f17b3297c798ad0f5379.png");
+}
+.user.waze-marker-icon.s-mood.mood-sad-female {
+    background-image: url("/assets/livemap/moods/sad-female@2x-638a2684c9a7dfbbc0e367964155f0f9.png");
+}
+.user.waze-marker-icon.s-mood.mood-sarcastic {
+    background-image: url("/assets/livemap/moods/sarcastic@2x-afab6c1f895c0d522a56a00cab7d9ee6.png");
+}
+.user.waze-marker-icon.s-mood.mood-sarcastic-female {
+    background-image: url("/assets/livemap/moods/sarcastic-female@2x-7d8a280e2951cc83b067507f7a015992.png");
+}
+.user.waze-marker-icon.s-mood.mood-shy {
+    background-image: url("/assets/livemap/moods/shy@2x-a708868478b8bdca189d097db0bae89c.png");
+}
+.user.waze-marker-icon.s-mood.mood-shy-female {
+    background-image: url("/assets/livemap/moods/shy-female@2x-738eddc7444fddd0b5e65ff9c967e663.png");
+}
+.user.waze-marker-icon.s-mood.mood-sick {
+    background-image: url("/assets/livemap/moods/sick@2x-f445448d2553fa4bf97af99f6253b239.png");
+}
+.user.waze-marker-icon.s-mood.mood-sick-female {
+    background-image: url("/assets/livemap/moods/sick-female@2x-88713333637e54662254634efa0d5ff2.png");
+}
+.user.waze-marker-icon.s-mood.mood-sleepy {
+    background-image: url("/assets/livemap/moods/sleepy@2x-023e338fdf445c841da1b7570bb82974.png");
+}
+.user.waze-marker-icon.s-mood.mood-sleepy-female {
+    background-image: url("/assets/livemap/moods/sleepy-female@2x-4c72f1a48c8f57e223097f733caf18b9.png");
+}
+.user.waze-marker-icon.s-mood.mood-snow-plow {
+    background-image: url("/assets/livemap/moods/snow-plow@2x-9ee567a7bfcf531c10449e5ed2b22747.png");
+}
+.user.waze-marker-icon.s-mood.mood-speedy {
+    background-image: url("/assets/livemap/moods/speedy@2x-992c9b8a2e392a01ccdd4dc78cf39645.png");
+}
+.user.waze-marker-icon.s-mood.mood-speedy-female {
+    background-image: url("/assets/livemap/moods/speedy-female@2x-bee9cfbc32d9ad13bf89da11c8179c83.png");
+}
+.user.waze-marker-icon.s-mood.mood-sunny {
+    background-image: url("/assets/livemap/moods/sunny@2x-44ee7e12d88866eae760480a9b2b00f2.png");
+}
+.user.waze-marker-icon.s-mood.mood-zombie {
+    background-image: url("/assets/livemap/moods/zombie@2x-cdd6166ed4e7737572dca04a55480ed0.png");
+}
+.user.waze-marker-icon.s-mood.marker-cluster {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.xs-mood {
+    background-size: 15px 12px;
+    cursor: default;
+    height: 12px;
+    margin-left: -7px;
+    margin-top: -7px;
+    width: 15px;
+}
+.user.waze-marker-icon.xs-mood.mood-8bit {
+    background-image: url("/assets/livemap/moods/8bit@2x-999221532c52db351e5b89ff34416b63.png");
+}
+.user.waze-marker-icon.xs-mood.mood-LOL {
+    background-image: url("/assets/livemap/moods/LOL@2x-8f110b29e13cd7682ded55863b0d75ee.png");
+}
+.user.waze-marker-icon.xs-mood.mood-LOL-female {
+    background-image: url("/assets/livemap/moods/LOL-female@2x-00cfbc3620425847358d0b20d72c1354.png");
+}
+.user.waze-marker-icon.xs-mood.mood-baby {
+    background-image: url("/assets/livemap/moods/baby@2x-a284aff6598dc619845a89830aa2523c.png");
+}
+.user.waze-marker-icon.xs-mood.mood-cat {
+    background-image: url("/assets/livemap/moods/cat@2x-39102b499168dc5cbc2f6a70912e5d02.png");
+}
+.user.waze-marker-icon.xs-mood.mood-cool {
+    background-image: url("/assets/livemap/moods/cool@2x-99d6be45e646f32593ec31e3c2260d82.png");
+}
+.user.waze-marker-icon.xs-mood.mood-cool-female {
+    background-image: url("/assets/livemap/moods/cool-female@2x-6e69517055f8cccd8e77d57bcd097d22.png");
+}
+.user.waze-marker-icon.xs-mood.mood-dino {
+    background-image: url("/assets/livemap/moods/dino@2x-e14302d557eb17ce44058b6220fcbc7f.png");
+}
+.user.waze-marker-icon.xs-mood.mood-dog {
+    background-image: url("/assets/livemap/moods/dog@2x-91069b0c4dccab3678909c215f1f5ce5.png");
+}
+.user.waze-marker-icon.xs-mood.mood-duck {
+    background-image: url("/assets/livemap/moods/duck@2x-5fe33d3e0a35c3f13c50f656a12eab42.png");
+}
+.user.waze-marker-icon.xs-mood.mood-duck-female {
+    background-image: url("/assets/livemap/moods/duck-female@2x-c37e2b4fcfb0971ed0fb9fb7e4efebc8.png");
+}
+.user.waze-marker-icon.xs-mood.mood-frustrated {
+    background-image: url("/assets/livemap/moods/frustrated@2x-8199163501a654517eaffc7061262b9b.png");
+}
+.user.waze-marker-icon.xs-mood.mood-frustrated-female {
+    background-image: url("/assets/livemap/moods/frustrated-female@2x-0727ab081da54e998f8210cbbf5dfdc2.png");
+}
+.user.waze-marker-icon.xs-mood.mood-garbage-truck {
+    background-image: url("/assets/livemap/moods/garbage-truck@2x-8895404ca3a084bb22cff98631593b96.png");
+}
+.user.waze-marker-icon.xs-mood.mood-geek {
+    background-image: url("/assets/livemap/moods/geek@2x-1e62152c2096aed37ff59e6fd569cfb3.png");
+}
+.user.waze-marker-icon.xs-mood.mood-geek-female {
+    background-image: url("/assets/livemap/moods/geek-female@2x-563a6ea34ebb1252dfb8d639684e3743.png");
+}
+.user.waze-marker-icon.xs-mood.mood-happy {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.user.waze-marker-icon.xs-mood.mood-happy-female {
+    background-image: url("/assets/livemap/moods/happy-female@2x-47d848bcbd84bfa702b385be466cce66.png");
+}
+.user.waze-marker-icon.xs-mood.mood-inlove {
+    background-image: url("/assets/livemap/moods/inlove@2x-ad6619ac8c878920cfd145b07ea413e8.png");
+}
+.user.waze-marker-icon.xs-mood.mood-inlove-female {
+    background-image: url("/assets/livemap/moods/inlove-female@2x-f67ff42c6b211d25c148bb6731ef7474.png");
+}
+.user.waze-marker-icon.xs-mood.mood-monster {
+    background-image: url("/assets/livemap/moods/monster@2x-f4fd6137f96251960c838bec6c09aa33.png");
+}
+.user.waze-marker-icon.xs-mood.mood-ninja {
+    background-image: url("/assets/livemap/moods/ninja@2x-fd52b768fef5e7ba3b0ed89344523977.png");
+}
+.user.waze-marker-icon.xs-mood.mood-ninja-female {
+    background-image: url("/assets/livemap/moods/ninja-female@2x-b67c828b89c5f8b201e5487b43632edd.png");
+}
+.user.waze-marker-icon.xs-mood.mood-peaceful {
+    background-image: url("/assets/livemap/moods/peaceful@2x-ae1f54a1caf56bc2b74cbc759c66b0f9.png");
+}
+.user.waze-marker-icon.xs-mood.mood-peaceful-female {
+    background-image: url("/assets/livemap/moods/peaceful-female@2x-72576888afe78e304291fcff56fa7a69.png");
+}
+.user.waze-marker-icon.xs-mood.mood-robot {
+    background-image: url("/assets/livemap/moods/robot@2x-71f4067f2f9323fc7af575a638c791ce.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sad {
+    background-image: url("/assets/livemap/moods/sad@2x-364c79f3a0e6f17b3297c798ad0f5379.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sad-female {
+    background-image: url("/assets/livemap/moods/sad-female@2x-638a2684c9a7dfbbc0e367964155f0f9.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sarcastic {
+    background-image: url("/assets/livemap/moods/sarcastic@2x-afab6c1f895c0d522a56a00cab7d9ee6.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sarcastic-female {
+    background-image: url("/assets/livemap/moods/sarcastic-female@2x-7d8a280e2951cc83b067507f7a015992.png");
+}
+.user.waze-marker-icon.xs-mood.mood-shy {
+    background-image: url("/assets/livemap/moods/shy@2x-a708868478b8bdca189d097db0bae89c.png");
+}
+.user.waze-marker-icon.xs-mood.mood-shy-female {
+    background-image: url("/assets/livemap/moods/shy-female@2x-738eddc7444fddd0b5e65ff9c967e663.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sick {
+    background-image: url("/assets/livemap/moods/sick@2x-f445448d2553fa4bf97af99f6253b239.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sick-female {
+    background-image: url("/assets/livemap/moods/sick-female@2x-88713333637e54662254634efa0d5ff2.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sleepy {
+    background-image: url("/assets/livemap/moods/sleepy@2x-023e338fdf445c841da1b7570bb82974.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sleepy-female {
+    background-image: url("/assets/livemap/moods/sleepy-female@2x-4c72f1a48c8f57e223097f733caf18b9.png");
+}
+.user.waze-marker-icon.xs-mood.mood-snow-plow {
+    background-image: url("/assets/livemap/moods/snow-plow@2x-9ee567a7bfcf531c10449e5ed2b22747.png");
+}
+.user.waze-marker-icon.xs-mood.mood-speedy {
+    background-image: url("/assets/livemap/moods/speedy@2x-992c9b8a2e392a01ccdd4dc78cf39645.png");
+}
+.user.waze-marker-icon.xs-mood.mood-speedy-female {
+    background-image: url("/assets/livemap/moods/speedy-female@2x-bee9cfbc32d9ad13bf89da11c8179c83.png");
+}
+.user.waze-marker-icon.xs-mood.mood-sunny {
+    background-image: url("/assets/livemap/moods/sunny@2x-44ee7e12d88866eae760480a9b2b00f2.png");
+}
+.user.waze-marker-icon.xs-mood.mood-zombie {
+    background-image: url("/assets/livemap/moods/zombie@2x-cdd6166ed4e7737572dca04a55480ed0.png");
+}
+.user.waze-marker-icon.xs-mood.marker-cluster {
+    background-image: url("/assets/livemap/moods/happy@2x-7d721fae936eed4377345e5299aa983f.png");
+}
+.jam {
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-opacity: 0.5;
+    stroke-width: 6px;
+}
+.jam.outline {
+    stroke-width: 6px;
+}
+.zoom-near .jam {
+    stroke-width: 6px;
+}
+.zoom-near .jam.outline {
+    stroke-width: 6px;
+}
+.zoom-mid .jam {
+    stroke-width: 4px;
+}
+.zoom-mid .jam.outline {
+    stroke-width: 5px;
+}
+.zoom-far .jam {
+    stroke-width: 4px;
+}
+.zoom-far .jam.outline {
+    stroke-width: 5px;
+}
+.jam.severity-0 {
+    stroke: #ffc62e;
+}
+.jam.severity-0.outline {
+    stroke: #c79100;
+}
+.jam.severity-1 {
+    stroke: #ffc62e;
+}
+.jam.severity-1.outline {
+    stroke: #c79100;
+}
+.jam.severity-2 {
+    stroke: #ee513c;
+}
+.jam.severity-2.outline {
+    stroke: #b42310;
+}
+.jam.severity-3 {
+    stroke: #b21600;
+}
+.jam.severity-3.outline {
+    stroke: #4c0900;
+}
+.jam.severity-4 {
+    stroke: #551108;
+}
+.jam.severity-4.outline {
+    stroke: black;
+}
+.jam.road-closure-outline {
+    stroke: black;
+    stroke-linecap: round;
+    stroke-opacity: 1;
+    stroke-width: 11px;
+}
+.zoom-mid .jam.road-closure-outline {
+    stroke-width: 7px;
+}
+.zoom-far .jam.road-closure-outline {
+    stroke-width: 5px;
+}
+.jam.jam-outline {
+    stroke: transparent;
+    stroke-linecap: round;
+    stroke-opacity: 1;
+    stroke-width: 33px;
+}
+.zoom-mid .jam.jam-outline {
+    stroke-width: 7px;
+}
+.zoom-far .jam.jam-outline {
+    stroke-width: 5px;
+}
+.jam.severity-5 {
+    stroke: white;
+    stroke-dasharray: 10, 10;
+    stroke-linecap: butt;
+    stroke-opacity: 1;
+    stroke-width: 8px;
+}
+.jam.severity-5.outline {
+    stroke: red;
+    stroke-dasharray: none !important;
+    stroke-width: 8px;
+}
+.zoom-mid .jam.severity-5.outline {
+    stroke-width: 5px;
+}
+.zoom-far .jam.severity-5.outline {
+    stroke-width: 3px;
+}
+.zoom-mid .jam.severity-5 {
+    stroke-dasharray: 5, 5;
+    stroke-width: 5px;
+}
+.irregularity.irregularity-dotted {
+    stroke: red;
+    stroke-dasharray: 10, 10;
+    stroke-linecap: butt;
+    stroke-opacity: 0.5;
+    stroke-width: 5px;
+}
+.irregularity.irregularity-line {
+    opacity: 0.3;
+    stroke: red;
+    stroke-dasharray: none !important;
+    stroke-width: 5px;
+}
+.zoom-mid .irregularity.irregularity-line {
+    stroke-width: 5px;
+}
+.zoom-far .irregularity.irregularity-line {
+    stroke-width: 3px;
+}
+.zoom-mid .irregularity {
+    stroke-dasharray: 5, 5;
+    stroke-width: 3px;
+}
+.leaflet-container {
+    cursor: default;
+    font-family: "Open Sans","Alef Hebrew",helvetica,sans-serif;
+    font-size: 13px;
+}
+.leaflet-container a.leaflet-active {
+    outline: medium none;
+}
+.leaflet-touch .leaflet-bar {
+    border: medium none;
+}
+.leaflet-container .leaflet-control.leaflet-control-mouse-position {
+    clear: none;
+    direction: ltr;
+}
+.leaflet-container .leaflet-control.leaflet-control-search-box {
+    direction: ltr;
+}
+.leaflet-container .leaflet-control.leaflet-control-copyright, .leaflet-container .leaflet-control.leaflet-control-permalink, .leaflet-container .leaflet-control.leaflet-control-edit-map, .leaflet-container .leaflet-control.leaflet-control-mouse-position, .leaflet-container .leaflet-control.leaflet-control-search-box {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    color: #333;
+    padding: 5px;
+}
+.leaflet-container .leaflet-control.leaflet-control-permalink a {
+    color: #333;
+}
+@media (max-width: 979px) {
+.leaflet-container .leaflet-control.leaflet-control-copyright {
+    display: none;
+}
+}
+.leaflet-container .leaflet-control.leaflet-control-copyright {
+    border-radius: 0;
+    box-shadow: none;
+    color: #777;
+    font-size: 11px;
+    margin: 0;
+    padding: 1px 5px;
+}
+@media (max-width: 979px) {
+.leaflet-container .leaflet-control.leaflet-control-edit-map {
+    display: none;
+}
+}
+.leaflet-container .leaflet-control.leaflet-control-edit-map {
+    background-color: #ff8383;
+    border-radius: 5px 5px 0 0;
+    height: 43px;
+    margin-bottom: 0;
+    margin-left: 20px;
+    padding: 10px 20px 0;
+    transform: translate3d(0px, 5px, 0px);
+    transition: all 0.3s ease 0s;
+}
+.leaflet-container .leaflet-control.leaflet-control-edit-map .leaflet-control-edit-link {
+    color: white;
+    font-weight: 600;
+}
+.leaflet-container .leaflet-control.leaflet-control-edit-map:hover {
+    background-color: #fd8f8f;
+    transform: translate3d(0px, 0px, 0px);
+}
+@media (max-width: 979px) {
+.leaflet-container .leaflet-control.leaflet-control-permalink {
+    display: none;
+}
+}
+.leaflet-container .leaflet-control.leaflet-control-permalink {
+    border-radius: 0;
+    text-align: center;
+    width: 28px;
+}
+@media (max-width: 979px) {
+.leaflet-container .leaflet-control.leaflet-control-mouse-position {
+    display: none;
+}
+}
+.leaflet-container .leaflet-control.leaflet-control-mouse-position {
+    border-radius: 0;
+    font-size: 13px;
+    margin-right: 0 !important;
+    padding-right: 5px;
+}
+.leaflet-container .leaflet-control.leaflet-control-mouse-position .mouse-position {
+    padding: 0 5px;
+}
+.leaflet-container .leaflet-control.leaflet-control-search-box {
+    border-radius: 0;
+    font-family: "Open Sans","Alef Hebrew",helvetica,sans-serif;
+    font-size: 11px;
+    height: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.leaflet-container .leaflet-control.leaflet-control-search-box i {
+    margin-right: 5px;
+}
+.leaflet-container .leaflet-control.leaflet-control-search-box a {
+    font-weight: 700;
+    margin-left: 3px;
+}
+.leaflet-container .leaflet-control.leaflet-control-zoom {
+    background-color: white;
+    border-radius: 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+.leaflet-container .leaflet-control.leaflet-control-zoom .leaflet-control-zoom-in, .leaflet-container .leaflet-control.leaflet-control-zoom .leaflet-control-zoom-out {
+    font-family: "Open Sans","Alef Hebrew",helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.dropdown-menu > .no_results {
+    color: #888;
+    font-style: italic;
+    text-align: center;
+}
+.modal.permalink {
+    top: 159px;
+}
+.modal.permalink .modal-body {
+    text-align: center;
+}
+.modal.permalink input.permalink {
+    cursor: text;
+    direction: ltr;
+    font-weight: 400;
+}
+.modal-backdrop-permalink {
+    opacity: 0;
+}
+#server-switcher {
+    bottom: 60px;
+    left: 20px;
+    position: absolute;
+    z-index: 5;
+}
+#server-switcher .contents {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    font-weight: 400;
+    padding: 5px;
+}
+.download-hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 2000;
+}
+@media (max-width: 767px) {
+.download-hover {
+    display: block;
+}
+}
+.download-hover .header {
+    background-color: #93c4d3;
+    box-shadow: 0 1px 3px 0 #59899e;
+    height: 60px;
+}
+.download-hover .header .waze-header-logo {
+    margin-left: 0;
+    margin-top: 17px;
+}
+.download-hover h3 {
+    color: #2d5769;
+    font-size: 26px;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.download-hover .screenshot {
+    background-image: url("/assets/screenshot-962c3deccfafa1775a1acb3e7fd4a382.png");
+    background-size: 100% auto;
+    display: inline-block;
+    height: 274px;
+    margin-top: 10px;
+    width: 150px;
+}
+.download-hover .buttons {
+    margin-bottom: 10px;
+}
+.download-hover a.hide-hover {
+    color: #59899e;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: underline;
+}

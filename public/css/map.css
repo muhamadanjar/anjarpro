@@ -1,0 +1,41 @@
+html, body, #map{
+  width:100%;
+  height:100%;
+  overflow:hidden;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+li { 
+		
+		
+		list-style: none;
+	}
+=======
+>>>>>>> a8494fcaf56055ca0d8fa3cc1176e415b8933627
+=======
+>>>>>>> a8494fcaf56055ca0d8fa3cc1176e415b8933627
+.ol-control button{ 
+  background-color: rgba(40, 40, 40, 0.8) !important;
+}
+.ol-control button:hover{ 
+  background-color: rgba(40, 40, 40, 1) !important;
+}
+
+#contain {
+	background:	#999;
+	height:		100%;
+	margin:		54px auto;
+	width:		100%;
+	overflow: hidden;
+}
+.navbar-brand-image {
+	height: 32px;
+	margin-left: 0;
+	margin-right: 10px;
+	margin-top: 0;
+}
+
+.ui-layout-pane {
+    padding: 0;
+
+}

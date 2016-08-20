@@ -1,0 +1,28 @@
+SELECT post.*,postcategory.categorypost,posttag.tagpost FROM post 
+INNER JOIN 
+(
+SELECT
+post.postid,
+string_agg(terms.name,',') as categorypost
+FROM
+post
+INNER JOIN term_relation ON post.postid = term_relation.postid
+INNER JOIN term_taxonomy ON term_relation.termtaxonomyid = term_taxonomy.termtaxonomyid
+INNER JOIN terms ON term_taxonomy.termid = terms.termid 
+WHERE term_taxonomy.taxonomy = 'post_category'
+GROUP BY post.postid
+) as postcategory ON post.postid = postcategory.postid
+
+INNER JOIN 
+(
+SELECT
+post.postid,
+string_agg(terms.name,',') as tagpost
+FROM
+post
+INNER JOIN term_relation ON post.postid = term_relation.postid
+INNER JOIN term_taxonomy ON term_relation.termtaxonomyid = term_taxonomy.termtaxonomyid
+INNER JOIN terms ON term_taxonomy.termid = terms.termid 
+WHERE term_taxonomy.taxonomy = 'post_tag'
+GROUP BY post.postid
+) as posttag ON post.postid = posttag.postid

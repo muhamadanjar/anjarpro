@@ -1,0 +1,2583 @@
+
+ 
+04-13-15 08:03:26 | GET detected
+04-13-15 08:03:26 | This proxy does not support empty parameters.
+ 
+04-13-15 08:03:46 | GET detected
+04-13-15 08:03:46 | Proxy could not resolve requested url - https://maps.googleapis.com/maps/api/elevation/json.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+04-13-15 08:04:55 | GET detected
+04-13-15 08:04:55 | ips table created!
+04-13-15 08:04:55 | clicks table created!
+04-13-15 08:04:55 | Ok to proxy
+04-13-15 08:04:55 | Proxy complete
+ 
+05-13-15 10:20:44 | GET detected
+05-13-15 10:20:45 | Ok to proxy
+05-13-15 10:20:45 | Proxy complete
+ 
+ 
+ 
+05-13-15 10:20:45 | GET detected
+05-13-15 10:20:45 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:20:45 | GET detected
+05-13-15 10:20:45 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:20:45 | GET detected
+05-13-15 10:20:45 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:20:45 | GET detected
+05-13-15 10:20:45 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:20:45 | GET detected
+ 
+05-13-15 10:20:45 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:20:45 | GET detected
+ 
+05-13-15 10:20:45 | Ok to proxy
+05-13-15 10:20:45 | Proxy complete
+05-13-15 10:20:45 | GET detected
+05-13-15 10:20:45 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:20:45 | GET detected
+ 
+05-13-15 10:20:46 | Ok to proxy
+05-13-15 10:20:46 | Proxy complete
+05-13-15 10:20:46 | GET detected
+05-13-15 10:20:46 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:20:46 | GET detected
+ 
+05-13-15 10:20:47 | Ok to proxy
+05-13-15 10:20:47 | Proxy complete
+05-13-15 10:20:47 | GET detected
+ 
+05-13-15 10:20:47 | Ok to proxy
+05-13-15 10:20:47 | Proxy complete
+05-13-15 10:20:47 | GET detected
+05-13-15 10:20:47 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:20:47 | GET detected
+ 
+05-13-15 10:20:47 | Ok to proxy
+05-13-15 10:20:47 | Proxy complete
+05-13-15 10:20:47 | GET detected
+ 
+05-13-15 10:20:47 | Ok to proxy
+05-13-15 10:20:47 | Proxy complete
+05-13-15 10:20:47 | GET detected
+ 
+05-13-15 10:20:47 | Ok to proxy
+05-13-15 10:20:47 | Proxy complete
+05-13-15 10:20:47 | GET detected
+05-13-15 10:20:47 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:20:47 | GET detected
+ 
+05-13-15 10:20:47 | Ok to proxy
+05-13-15 10:20:47 | Proxy complete
+05-13-15 10:20:47 | GET detected
+05-13-15 10:20:47 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:20:47 | GET detected
+ 
+05-13-15 10:20:48 | Ok to proxy
+05-13-15 10:20:48 | Proxy complete
+05-13-15 10:20:48 | GET detected
+ 
+05-13-15 10:20:48 | Ok to proxy
+05-13-15 10:20:48 | Proxy complete
+05-13-15 10:20:48 | GET detected
+ 
+05-13-15 10:20:48 | Ok to proxy
+05-13-15 10:20:48 | Proxy complete
+05-13-15 10:20:48 | GET detected
+ 
+05-13-15 10:20:48 | Ok to proxy
+05-13-15 10:20:48 | Proxy complete
+05-13-15 10:20:48 | GET detected
+ 
+05-13-15 10:20:48 | Ok to proxy
+05-13-15 10:20:48 | Proxy complete
+05-13-15 10:20:48 | GET detected
+ 
+05-13-15 10:20:48 | Ok to proxy
+05-13-15 10:20:48 | Proxy complete
+05-13-15 10:20:48 | GET detected
+ 
+05-13-15 10:20:49 | Ok to proxy
+05-13-15 10:20:49 | Proxy complete
+05-13-15 10:20:49 | GET detected
+ 
+05-13-15 10:20:49 | Ok to proxy
+05-13-15 10:20:49 | Proxy complete
+05-13-15 10:20:49 | GET detected
+ 
+05-13-15 10:20:50 | Ok to proxy
+05-13-15 10:20:50 | Proxy complete
+05-13-15 10:20:50 | GET detected
+05-13-15 10:20:50 | Ok to proxy
+05-13-15 10:20:50 | Proxy complete
+05-13-15 10:20:50 | GET detected
+ 
+05-13-15 10:20:50 | Ok to proxy
+05-13-15 10:20:50 | Proxy complete
+05-13-15 10:20:50 | GET detected
+05-13-15 10:20:50 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:20:50 | GET detected
+05-13-15 10:20:50 | Ok to proxy
+05-13-15 10:20:50 | Proxy complete
+05-13-15 10:20:50 | GET detected
+05-13-15 10:20:51 | Ok to proxy
+05-13-15 10:20:51 | Proxy complete
+05-13-15 10:20:51 | GET detected
+05-13-15 10:20:51 | Ok to proxy
+05-13-15 10:20:51 | Proxy complete
+ 
+05-13-15 10:20:52 | GET detected
+05-13-15 10:20:52 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:20:52 | GET detected
+ 
+05-13-15 10:20:52 | Ok to proxy
+05-13-15 10:20:52 | Proxy complete
+05-13-15 10:20:52 | GET detected
+05-13-15 10:20:52 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:20:59 | GET detected
+05-13-15 10:20:59 | Ok to proxy
+05-13-15 10:20:59 | Proxy complete
+05-13-15 10:20:59 | GET detected
+05-13-15 10:20:59 | Ok to proxy
+05-13-15 10:20:59 | Proxy complete
+05-13-15 10:20:59 | GET detected
+05-13-15 10:20:59 | Ok to proxy
+05-13-15 10:20:59 | Proxy complete
+05-13-15 10:20:59 | GET detected
+05-13-15 10:21:00 | Ok to proxy
+05-13-15 10:21:00 | Proxy complete
+05-13-15 10:21:00 | GET detected
+05-13-15 10:21:00 | Ok to proxy
+05-13-15 10:21:00 | Proxy complete
+ 
+ 
+05-13-15 10:21:00 | GET detected
+ 
+ 
+ 
+ 
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+ 
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+ 
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+ 
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+ 
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+ 
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+05-13-15 10:21:01 | Ok to proxy
+05-13-15 10:21:01 | Proxy complete
+05-13-15 10:21:01 | GET detected
+05-13-15 10:21:01 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:01 | GET detected
+05-13-15 10:21:01 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:01 | GET detected
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:21:02 | Ok to proxy
+05-13-15 10:21:02 | Proxy complete
+05-13-15 10:21:02 | GET detected
+ 
+05-13-15 10:21:02 | Ok to proxy
+05-13-15 10:21:02 | Proxy complete
+05-13-15 10:21:02 | GET detected
+ 
+05-13-15 10:21:02 | Ok to proxy
+05-13-15 10:21:02 | Proxy complete
+05-13-15 10:21:02 | GET detected
+ 
+05-13-15 10:21:02 | Ok to proxy
+05-13-15 10:21:02 | Proxy complete
+05-13-15 10:21:02 | GET detected
+ 
+05-13-15 10:21:02 | Ok to proxy
+05-13-15 10:21:02 | Proxy complete
+05-13-15 10:21:02 | GET detected
+ 
+05-13-15 10:21:03 | Ok to proxy
+05-13-15 10:21:03 | Proxy complete
+05-13-15 10:21:03 | GET detected
+ 
+ 
+ 
+05-13-15 10:21:03 | Ok to proxy
+05-13-15 10:21:03 | Proxy complete
+05-13-15 10:21:03 | GET detected
+ 
+05-13-15 10:21:03 | Ok to proxy
+05-13-15 10:21:03 | Proxy complete
+05-13-15 10:21:03 | GET detected
+05-13-15 10:21:04 | Ok to proxy
+05-13-15 10:21:04 | Proxy complete
+05-13-15 10:21:04 | GET detected
+05-13-15 10:21:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:04 | GET detected
+05-13-15 10:21:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:04 | GET detected
+05-13-15 10:21:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:04 | GET detected
+05-13-15 10:21:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:04 | GET detected
+ 
+05-13-15 10:21:07 | Ok to proxy
+05-13-15 10:21:08 | Proxy complete
+05-13-15 10:21:08 | GET detected
+ 
+05-13-15 10:21:08 | Ok to proxy
+05-13-15 10:21:08 | Proxy complete
+05-13-15 10:21:08 | GET detected
+ 
+05-13-15 10:21:08 | Ok to proxy
+05-13-15 10:21:08 | Proxy complete
+05-13-15 10:21:08 | GET detected
+ 
+05-13-15 10:21:08 | Ok to proxy
+05-13-15 10:21:08 | Proxy complete
+05-13-15 10:21:08 | GET detected
+ 
+05-13-15 10:21:08 | Ok to proxy
+05-13-15 10:21:08 | Proxy complete
+05-13-15 10:21:08 | GET detected
+ 
+05-13-15 10:21:08 | Ok to proxy
+05-13-15 10:21:08 | Proxy complete
+05-13-15 10:21:08 | GET detected
+ 
+05-13-15 10:21:09 | Ok to proxy
+05-13-15 10:21:09 | Proxy complete
+05-13-15 10:21:09 | GET detected
+ 
+05-13-15 10:21:09 | Ok to proxy
+05-13-15 10:21:09 | Proxy complete
+05-13-15 10:21:09 | GET detected
+ 
+05-13-15 10:21:09 | Ok to proxy
+05-13-15 10:21:09 | Proxy complete
+05-13-15 10:21:09 | GET detected
+05-13-15 10:21:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/813.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:09 | GET detected
+ 
+05-13-15 10:21:10 | Ok to proxy
+05-13-15 10:21:10 | Proxy complete
+05-13-15 10:21:10 | GET detected
+05-13-15 10:21:10 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/529/813.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:10 | GET detected
+05-13-15 10:21:10 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/529/814.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:10 | GET detected
+ 
+05-13-15 10:21:11 | Ok to proxy
+05-13-15 10:21:11 | Proxy complete
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/814.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+ 
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/529/815.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:11 | GET detected
+ 
+05-13-15 10:21:11 | Ok to proxy
+05-13-15 10:21:11 | Proxy complete
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/815.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/529/816.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/817.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+ 
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/818.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/529/818.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/816.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+ 
+05-13-15 10:21:11 | Ok to proxy
+05-13-15 10:21:11 | Proxy complete
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/819.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:11 | GET detected
+ 
+05-13-15 10:21:11 | Ok to proxy
+05-13-15 10:21:11 | Proxy complete
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/529/819.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:11 | GET detected
+05-13-15 10:21:12 | Ok to proxy
+05-13-15 10:21:12 | Proxy complete
+05-13-15 10:21:12 | GET detected
+05-13-15 10:21:12 | Ok to proxy
+05-13-15 10:21:12 | Proxy complete
+05-13-15 10:21:12 | GET detected
+05-13-15 10:21:12 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/529/817.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:12 | GET detected
+05-13-15 10:21:12 | Ok to proxy
+05-13-15 10:21:12 | Proxy complete
+ 
+05-13-15 10:21:42 | GET detected
+05-13-15 10:21:42 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+05-13-15 10:21:50 | GET detected
+ 
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:50 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:50 | GET detected
+05-13-15 10:21:51 | Ok to proxy
+05-13-15 10:21:51 | Proxy complete
+05-13-15 10:21:51 | GET detected
+ 
+ 
+ 
+ 
+05-13-15 10:21:51 | Ok to proxy
+05-13-15 10:21:51 | Proxy complete
+05-13-15 10:21:51 | GET detected
+05-13-15 10:21:51 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:21:51 | GET detected
+ 
+05-13-15 10:21:51 | Ok to proxy
+05-13-15 10:21:51 | Proxy complete
+05-13-15 10:21:51 | GET detected
+05-13-15 10:21:52 | Ok to proxy
+05-13-15 10:21:52 | Proxy complete
+05-13-15 10:21:52 | GET detected
+05-13-15 10:21:52 | Ok to proxy
+05-13-15 10:21:52 | Proxy complete
+05-13-15 10:21:52 | GET detected
+05-13-15 10:21:52 | Ok to proxy
+05-13-15 10:21:52 | Proxy complete
+05-13-15 10:21:52 | GET detected
+05-13-15 10:21:52 | Ok to proxy
+05-13-15 10:21:52 | Proxy complete
+ 
+05-13-15 10:21:53 | GET detected
+05-13-15 10:21:53 | Ok to proxy
+05-13-15 10:21:53 | Proxy complete
+ 
+05-13-15 10:21:55 | GET detected
+05-13-15 10:21:55 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:55 | GET detected
+05-13-15 10:21:55 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:21:56 | GET detected
+05-13-15 10:21:56 | Ok to proxy
+05-13-15 10:21:56 | Proxy complete
+ 
+05-13-15 10:21:57 | GET detected
+05-13-15 10:21:57 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:22:13 | GET detected
+05-13-15 10:22:16 | Ok to proxy
+05-13-15 10:22:16 | Proxy complete
+ 
+ 
+ 
+05-13-15 10:22:54 | GET detected
+ 
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+ 
+ 
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 05-13-15 10:22:54 | GET detected
+ 
+05-13-15 10:22:54 | Ok to proxy
+05-13-15 10:22:54 | Proxy complete
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+05-13-15 10:22:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:22:54 | GET detected
+ 
+ 
+ 
+ 
+05-13-15 10:22:55 | Ok to proxy
+05-13-15 10:22:55 | Proxy complete
+05-13-15 10:22:55 | GET detected
+ 
+05-13-15 10:22:55 | Ok to proxy
+05-13-15 10:22:55 | Proxy complete
+05-13-15 10:22:55 | GET detected
+05-13-15 10:22:56 | Ok to proxy
+05-13-15 10:22:56 | Proxy complete
+05-13-15 10:22:56 | GET detected
+ 
+05-13-15 10:22:57 | Ok to proxy
+05-13-15 10:22:57 | Proxy complete
+05-13-15 10:22:57 | GET detected
+05-13-15 10:22:57 | Ok to proxy
+05-13-15 10:22:57 | Proxy complete
+05-13-15 10:22:57 | GET detected
+05-13-15 10:22:58 | Ok to proxy
+05-13-15 10:22:58 | Proxy complete
+05-13-15 10:22:58 | GET detected
+05-13-15 10:22:58 | Ok to proxy
+05-13-15 10:22:58 | Proxy complete
+ 
+05-13-15 10:22:59 | GET detected
+05-13-15 10:22:59 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:22:59 | GET detected
+05-13-15 10:22:59 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:22:59 | GET detected
+05-13-15 10:23:00 | Ok to proxy
+05-13-15 10:23:00 | Proxy complete
+ 
+05-13-15 10:23:14 | GET detected
+05-13-15 10:23:14 | Ok to proxy
+05-13-15 10:23:14 | Proxy complete
+ 
+ 
+
+ 05-13-15 10:23:14 | GET detected
+ 
+05-13-15 10:23:14 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:14 | GET detected
+05-13-15 10:23:14 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:14 | GET detected
+05-13-15 10:23:14 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:14 | GET detected
+05-13-15 10:23:14 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+05-13-15 10:23:14 | GET detected
+ 
+ 
+ 
+05-13-15 10:23:19 | Ok to proxy
+05-13-15 10:23:19 | Proxy complete
+05-13-15 10:23:19 | GET detected
+ 
+05-13-15 10:23:21 | Ok to proxy
+05-13-15 10:23:21 | Proxy complete
+05-13-15 10:23:21 | GET detected
+05-13-15 10:23:21 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:21 | GET detected
+05-13-15 10:23:21 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:21 | GET detected
+ 
+05-13-15 10:23:21 | Ok to proxy
+05-13-15 10:23:21 | Proxy complete
+05-13-15 10:23:21 | GET detected
+05-13-15 10:23:21 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:21 | GET detected
+ 
+05-13-15 10:23:21 | Ok to proxy
+05-13-15 10:23:21 | Proxy complete
+05-13-15 10:23:21 | GET detected
+ 
+05-13-15 10:23:21 | Ok to proxy
+05-13-15 10:23:21 | Proxy complete
+05-13-15 10:23:21 | GET detected
+ 
+05-13-15 10:23:22 | Ok to proxy
+05-13-15 10:23:22 | Proxy complete
+05-13-15 10:23:22 | GET detected
+05-13-15 10:23:22 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:22 | GET detected
+ 
+05-13-15 10:23:23 | Ok to proxy
+05-13-15 10:23:23 | Proxy complete
+05-13-15 10:23:23 | GET detected
+05-13-15 10:23:23 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:23 | GET detected
+ 
+05-13-15 10:23:23 | Ok to proxy
+05-13-15 10:23:23 | Proxy complete
+05-13-15 10:23:23 | GET detected
+ 
+05-13-15 10:23:23 | Ok to proxy
+05-13-15 10:23:23 | Proxy complete
+05-13-15 10:23:23 | GET detected
+ 
+05-13-15 10:23:23 | Ok to proxy
+05-13-15 10:23:23 | Proxy complete
+05-13-15 10:23:23 | GET detected
+ 
+05-13-15 10:23:23 | Ok to proxy
+05-13-15 10:23:23 | Proxy complete
+05-13-15 10:23:23 | GET detected
+ 
+05-13-15 10:23:23 | Ok to proxy
+05-13-15 10:23:23 | Proxy complete
+05-13-15 10:23:23 | GET detected
+ 
+05-13-15 10:23:23 | Ok to proxy
+05-13-15 10:23:23 | Proxy complete
+05-13-15 10:23:23 | GET detected
+ 
+05-13-15 10:23:25 | Ok to proxy
+05-13-15 10:23:25 | Proxy complete
+05-13-15 10:23:25 | GET detected
+ 
+05-13-15 10:23:25 | Ok to proxy
+05-13-15 10:23:25 | Proxy complete
+05-13-15 10:23:25 | GET detected
+ 
+05-13-15 10:23:25 | Ok to proxy
+05-13-15 10:23:25 | Proxy complete
+05-13-15 10:23:25 | GET detected
+ 
+05-13-15 10:23:25 | Ok to proxy
+05-13-15 10:23:25 | Proxy complete
+05-13-15 10:23:25 | GET detected
+05-13-15 10:23:25 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:25 | GET detected
+ 
+05-13-15 10:23:25 | Ok to proxy
+05-13-15 10:23:25 | Proxy complete
+05-13-15 10:23:25 | GET detected
+05-13-15 10:23:26 | Ok to proxy
+05-13-15 10:23:26 | Proxy complete
+05-13-15 10:23:26 | GET detected
+05-13-15 10:23:27 | Ok to proxy
+05-13-15 10:23:27 | Proxy complete
+05-13-15 10:23:27 | GET detected
+05-13-15 10:23:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:27 | GET detected
+05-13-15 10:23:28 | Ok to proxy
+05-13-15 10:23:28 | Proxy complete
+05-13-15 10:23:28 | GET detected
+05-13-15 10:23:28 | Ok to proxy
+05-13-15 10:23:28 | Proxy complete
+ 
+05-13-15 10:23:29 | GET detected
+05-13-15 10:23:29 | Ok to proxy
+05-13-15 10:23:29 | Proxy complete
+ 
+05-13-15 10:23:30 | GET detected
+05-13-15 10:23:30 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:30 | GET detected
+05-13-15 10:23:30 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+ 
+05-13-15 10:23:36 | GET detected
+ 
+05-13-15 10:23:37 | Ok to proxy
+05-13-15 10:23:37 | Proxy complete
+05-13-15 10:23:37 | GET detected
+05-13-15 10:23:37 | Ok to proxy
+05-13-15 10:23:37 | Proxy complete
+05-13-15 10:23:37 | GET detected
+05-13-15 10:23:37 | Ok to proxy
+05-13-15 10:23:37 | Proxy complete
+05-13-15 10:23:37 | GET detected
+05-13-15 10:23:37 | Ok to proxy
+05-13-15 10:23:37 | Proxy complete
+05-13-15 10:23:37 | GET detected
+05-13-15 10:23:37 | Ok to proxy
+05-13-15 10:23:37 | Proxy complete
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:23:44 | GET detected
+ 
+05-13-15 10:23:44 | Ok to proxy
+05-13-15 10:23:44 | Proxy complete
+05-13-15 10:23:44 | GET detected
+ 
+05-13-15 10:23:44 | Ok to proxy
+05-13-15 10:23:44 | Proxy complete
+05-13-15 10:23:44 | GET detected
+ 
+05-13-15 10:23:44 | Ok to proxy
+05-13-15 10:23:44 | Proxy complete
+05-13-15 10:23:44 | GET detected
+ 
+05-13-15 10:23:44 | Ok to proxy
+05-13-15 10:23:44 | Proxy complete
+05-13-15 10:23:44 | GET detected
+ 
+05-13-15 10:23:44 | Ok to proxy
+05-13-15 10:23:44 | Proxy complete
+05-13-15 10:23:44 | GET detected
+ 
+05-13-15 10:23:45 | Ok to proxy
+05-13-15 10:23:45 | Proxy complete
+05-13-15 10:23:45 | GET detected
+05-13-15 10:23:45 | Ok to proxy
+05-13-15 10:23:45 | Proxy complete
+05-13-15 10:23:45 | GET detected
+05-13-15 10:23:46 | Ok to proxy
+05-13-15 10:23:46 | Proxy complete
+05-13-15 10:23:46 | GET detected
+05-13-15 10:23:46 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:46 | GET detected
+05-13-15 10:23:46 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:46 | GET detected
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:23:46 | Ok to proxy
+05-13-15 10:23:46 | Proxy complete
+05-13-15 10:23:46 | GET detected
+ 
+05-13-15 10:23:46 | Ok to proxy
+05-13-15 10:23:46 | Proxy complete
+05-13-15 10:23:46 | GET detected
+ 
+05-13-15 10:23:47 | Ok to proxy
+05-13-15 10:23:47 | Proxy complete
+05-13-15 10:23:47 | GET detected
+05-13-15 10:23:47 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/814.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:47 | GET detected
+05-13-15 10:23:47 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/815.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:47 | GET detected
+ 
+05-13-15 10:23:47 | Ok to proxy
+05-13-15 10:23:47 | Proxy complete
+05-13-15 10:23:47 | GET detected
+ 
+05-13-15 10:23:47 | Ok to proxy
+05-13-15 10:23:47 | Proxy complete
+05-13-15 10:23:47 | GET detected
+ 
+05-13-15 10:23:47 | Ok to proxy
+05-13-15 10:23:47 | Proxy complete
+05-13-15 10:23:47 | GET detected
+05-13-15 10:23:47 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/816.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:47 | GET detected
+ 
+05-13-15 10:23:48 | Ok to proxy
+05-13-15 10:23:48 | Proxy complete
+05-13-15 10:23:48 | GET detected
+ 
+05-13-15 10:23:48 | Ok to proxy
+05-13-15 10:23:48 | Proxy complete
+05-13-15 10:23:48 | GET detected
+05-13-15 10:23:48 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/817.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:48 | GET detected
+ 
+05-13-15 10:23:48 | Ok to proxy
+05-13-15 10:23:48 | Proxy complete
+05-13-15 10:23:48 | GET detected
+ 
+05-13-15 10:23:48 | Ok to proxy
+05-13-15 10:23:48 | Proxy complete
+05-13-15 10:23:48 | GET detected
+05-13-15 10:23:48 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/818.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:23:48 | GET detected
+ 
+05-13-15 10:23:48 | Ok to proxy
+05-13-15 10:23:48 | Proxy complete
+05-13-15 10:23:48 | GET detected
+ 
+05-13-15 10:23:49 | Ok to proxy
+05-13-15 10:23:49 | Proxy complete
+05-13-15 10:23:49 | GET detected
+05-13-15 10:23:49 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/819.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:49 | GET detected
+05-13-15 10:23:49 | Ok to proxy
+05-13-15 10:23:49 | Proxy complete
+05-13-15 10:23:49 | GET detected
+05-13-15 10:23:49 | Ok to proxy
+05-13-15 10:23:49 | Proxy complete
+05-13-15 10:23:49 | GET detected
+05-13-15 10:23:49 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/10/531/820.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:23:49 | GET detected
+05-13-15 10:23:49 | Ok to proxy
+05-13-15 10:23:49 | Proxy complete
+ 
+05-13-15 10:24:03 | GET detected
+05-13-15 10:24:04 | Ok to proxy
+05-13-15 10:24:04 | Proxy complete
+ 
+ 
+05-13-15 10:24:04 | GET detected
+ 
+ 
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:24:04 | GET detected
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:24:04 | GET detected
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:24:04 | GET detected
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/php/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+05-13-15 10:24:04 | GET detected
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:24:04 | GET detected
+ 
+ 
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:24:04 | GET detected
+ 
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+05-13-15 10:24:04 | GET detected
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:24:04 | GET detected
+ 
+05-13-15 10:24:04 | Ok to proxy
+05-13-15 10:24:04 | Proxy complete
+05-13-15 10:24:04 | GET detected
+ 
+05-13-15 10:24:04 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:24:04 | GET detected
+ 
+05-13-15 10:24:05 | Ok to proxy
+05-13-15 10:24:05 | Proxy complete
+05-13-15 10:24:05 | GET detected
+ 
+05-13-15 10:24:06 | Ok to proxy
+05-13-15 10:24:06 | Proxy complete
+05-13-15 10:24:06 | GET detected
+05-13-15 10:24:06 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:24:06 | GET detected
+05-13-15 10:24:06 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:24:06 | GET detected
+ 
+05-13-15 10:24:06 | Ok to proxy
+05-13-15 10:24:06 | Proxy complete
+05-13-15 10:24:06 | GET detected
+ 
+05-13-15 10:24:06 | Ok to proxy
+05-13-15 10:24:06 | Proxy complete
+05-13-15 10:24:06 | GET detected
+ 
+05-13-15 10:24:06 | Ok to proxy
+05-13-15 10:24:06 | Proxy complete
+05-13-15 10:24:06 | GET detected
+ 
+05-13-15 10:24:06 | Ok to proxy
+05-13-15 10:24:06 | Proxy complete
+05-13-15 10:24:06 | GET detected
+ 
+05-13-15 10:24:06 | Ok to proxy
+05-13-15 10:24:06 | Proxy complete
+05-13-15 10:24:06 | GET detected
+ 
+05-13-15 10:24:07 | Ok to proxy
+05-13-15 10:24:07 | Proxy complete
+05-13-15 10:24:07 | GET detected
+ 
+05-13-15 10:24:09 | Ok to proxy
+05-13-15 10:24:09 | Proxy complete
+05-13-15 10:24:09 | GET detected
+ 
+05-13-15 10:24:09 | Ok to proxy
+05-13-15 10:24:09 | Proxy complete
+05-13-15 10:24:09 | GET detected
+ 
+05-13-15 10:24:09 | Ok to proxy
+05-13-15 10:24:09 | Proxy complete
+05-13-15 10:24:09 | GET detected
+ 
+05-13-15 10:24:09 | Ok to proxy
+05-13-15 10:24:09 | Proxy complete
+05-13-15 10:24:09 | GET detected
+ 
+05-13-15 10:24:09 | Ok to proxy
+05-13-15 10:24:09 | Proxy complete
+05-13-15 10:24:09 | GET detected
+ 
+05-13-15 10:24:09 | Ok to proxy
+05-13-15 10:24:09 | Proxy complete
+05-13-15 10:24:09 | GET detected
+ 
+05-13-15 10:24:10 | Ok to proxy
+05-13-15 10:24:10 | Proxy complete
+05-13-15 10:24:10 | GET detected
+ 
+05-13-15 10:24:10 | Ok to proxy
+05-13-15 10:24:10 | Proxy complete
+05-13-15 10:24:10 | GET detected
+05-13-15 10:24:10 | Ok to proxy
+05-13-15 10:24:10 | Proxy complete
+05-13-15 10:24:10 | GET detected
+05-13-15 10:24:10 | Ok to proxy
+05-13-15 10:24:10 | Proxy complete
+05-13-15 10:24:10 | GET detected
+05-13-15 10:24:11 | Ok to proxy
+05-13-15 10:24:11 | Proxy complete
+05-13-15 10:24:11 | GET detected
+05-13-15 10:24:11 | Ok to proxy
+05-13-15 10:24:11 | Proxy complete
+05-13-15 10:24:11 | GET detected
+05-13-15 10:24:11 | Ok to proxy
+05-13-15 10:24:11 | Proxy complete
+ 
+05-13-15 10:24:13 | GET detected
+05-13-15 10:24:13 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:24:13 | GET detected
+05-13-15 10:24:13 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:24:13 | GET detected
+05-13-15 10:24:13 | Ok to proxy
+05-13-15 10:24:13 | Proxy complete
+ 
+05-13-15 10:27:09 | GET detected
+05-13-15 10:27:09 | Proxy could not resolve requested url - portal.ina-sdi.or.id/arcgis/rest/services/IGD/IGD_250K_Hidrografi/MapServer/legend.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:27:33 | GET detected
+05-13-15 10:27:33 | This proxy does not support empty parameters.
+ 
+05-13-15 10:27:39 | GET detected
+05-13-15 10:27:39 | This proxy does not support empty parameters.
+ 
+05-13-15 10:28:38 | GET detected
+05-13-15 10:28:39 | Ok to proxy
+05-13-15 10:28:39 | Proxy complete
+ 
+05-13-15 10:28:46 | GET detected
+05-13-15 10:28:46 | This proxy does not support empty parameters.
+ 
+05-13-15 10:29:05 | GET detected
+05-13-15 10:29:05 | Ok to proxy
+05-13-15 10:29:05 | Proxy complete
+ 
+05-13-15 10:29:14 | GET detected
+05-13-15 10:29:14 | This proxy does not support empty parameters.
+ 
+05-13-15 10:29:59 | GET detected
+05-13-15 10:30:00 | Ok to proxy
+05-13-15 10:30:00 | Proxy complete
+ 
+05-13-15 10:30:18 | GET detected
+05-13-15 10:30:18 | Ok to proxy
+05-13-15 10:30:18 | Proxy complete
+ 
+05-13-15 10:31:08 | GET detected
+05-13-15 10:31:09 | Ok to proxy
+05-13-15 10:31:09 | Proxy complete
+ 
+ 
+ 
+05-13-15 10:31:09 | GET detected
+ 
+05-13-15 10:31:09 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:31:09 | GET detected
+05-13-15 10:31:09 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:31:09 | GET detected
+05-13-15 10:31:09 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:31:09 | GET detected
+05-13-15 10:31:09 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+05-13-15 10:31:09 | GET detected
+ 
+  
+05-13-15 10:31:10 | Ok to proxy
+05-13-15 10:31:10 | Proxy complete
+05-13-15 10:31:10 | GET detected
+ 
+05-13-15 10:31:10 | Ok to proxy
+05-13-15 10:31:10 | Proxy complete
+05-13-15 10:31:10 | GET detected
+ 
+05-13-15 10:31:11 | Ok to proxy
+05-13-15 10:31:11 | Proxy complete
+05-13-15 10:31:11 | GET detected
+ 
+05-13-15 10:31:11 | Ok to proxy
+05-13-15 10:31:11 | Proxy complete
+05-13-15 10:31:11 | GET detected
+ 
+05-13-15 10:31:11 | Ok to proxy
+05-13-15 10:31:11 | Proxy complete
+05-13-15 10:31:11 | GET detected
+ 
+05-13-15 10:31:11 | Ok to proxy
+05-13-15 10:31:11 | Proxy complete
+05-13-15 10:31:11 | GET detected
+ 
+05-13-15 10:31:11 | Ok to proxy
+05-13-15 10:31:11 | Proxy complete
+05-13-15 10:31:11 | GET detected
+ 
+05-13-15 10:31:11 | Ok to proxy
+05-13-15 10:31:11 | Proxy complete
+05-13-15 10:31:11 | GET detected
+05-13-15 10:31:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:11 | GET detected
+ 
+05-13-15 10:31:12 | Ok to proxy
+05-13-15 10:31:12 | Proxy complete
+05-13-15 10:31:12 | GET detected
+05-13-15 10:31:12 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:12 | GET detected
+ 
+05-13-15 10:31:12 | Ok to proxy
+05-13-15 10:31:12 | Proxy complete
+05-13-15 10:31:12 | GET detected
+05-13-15 10:31:12 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:12 | GET detected
+ 
+05-13-15 10:31:12 | Ok to proxy
+05-13-15 10:31:12 | Proxy complete
+05-13-15 10:31:12 | GET detected
+ 
+05-13-15 10:31:12 | Ok to proxy
+05-13-15 10:31:12 | Proxy complete
+05-13-15 10:31:12 | GET detected
+ 
+05-13-15 10:31:12 | Ok to proxy
+05-13-15 10:31:12 | Proxy complete
+05-13-15 10:31:12 | GET detected
+ 
+05-13-15 10:31:12 | Ok to proxy
+05-13-15 10:31:12 | Proxy complete
+05-13-15 10:31:12 | GET detected
+ 
+05-13-15 10:31:12 | Ok to proxy
+05-13-15 10:31:12 | Proxy complete
+05-13-15 10:31:12 | GET detected
+05-13-15 10:31:12 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:12 | GET detected
+ 
+05-13-15 10:31:13 | Ok to proxy
+05-13-15 10:31:13 | Proxy complete
+05-13-15 10:31:13 | GET detected
+05-13-15 10:31:13 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:31:13 | GET detected
+ 
+ 
+05-13-15 10:31:13 | Ok to proxy
+05-13-15 10:31:13 | Proxy complete
+05-13-15 10:31:13 | GET detected
+05-13-15 10:31:13 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:13 | GET detected
+05-13-15 10:31:13 | Ok to proxy
+05-13-15 10:31:13 | Proxy complete
+05-13-15 10:31:13 | GET detected
+05-13-15 10:31:14 | Ok to proxy
+05-13-15 10:31:14 | Proxy complete
+05-13-15 10:31:14 | GET detected
+05-13-15 10:31:14 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:31:14 | GET detected
+ 
+05-13-15 10:31:14 | Ok to proxy
+05-13-15 10:31:14 | Proxy complete
+05-13-15 10:31:14 | GET detected
+05-13-15 10:31:14 | Ok to proxy
+05-13-15 10:31:14 | Proxy complete
+05-13-15 10:31:14 | GET detected
+05-13-15 10:31:14 | Ok to proxy
+05-13-15 10:31:14 | Proxy complete
+ 
+05-13-15 10:31:17 | GET detected
+05-13-15 10:31:17 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:17 | GET detected
+05-13-15 10:31:17 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:18 | GET detected
+05-13-15 10:31:18 | Ok to proxy
+05-13-15 10:31:18 | Proxy complete
+ 
+05-13-15 10:31:24 | GET detected
+05-13-15 10:31:24 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:41 | GET detected
+05-13-15 10:31:41 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:43 | GET detected
+05-13-15 10:31:43 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:44 | GET detected
+05-13-15 10:31:44 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:31:55 | GET detected
+05-13-15 10:31:58 | Ok to proxy
+05-13-15 10:31:58 | Proxy complete
+ 
+
+ 05-13-15 10:32:08 | GET detected
+ 
+ 
+05-13-15 10:32:08 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:08 | GET detected
+05-13-15 10:32:08 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:08 | GET detected
+05-13-15 10:32:08 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:08 | GET detected
+05-13-15 10:32:08 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+ 
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:09 | GET detected
+ 
+ 
+05-13-15 10:32:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Ok to proxy
+05-13-15 10:32:09 | Proxy complete
+05-13-15 10:32:09 | GET detected
+ 
+ 
+ 
+ 
+05-13-15 10:32:09 | Ok to proxy
+05-13-15 10:32:09 | Proxy complete
+05-13-15 10:32:09 | GET detected
+05-13-15 10:32:09 | Ok to proxy
+05-13-15 10:32:10 | Proxy complete
+05-13-15 10:32:10 | GET detected
+ 
+05-13-15 10:32:10 | Ok to proxy
+05-13-15 10:32:10 | Proxy complete
+05-13-15 10:32:10 | GET detected
+05-13-15 10:32:10 | Ok to proxy
+05-13-15 10:32:10 | Proxy complete
+05-13-15 10:32:10 | GET detected
+05-13-15 10:32:10 | Ok to proxy
+05-13-15 10:32:10 | Proxy complete
+05-13-15 10:32:10 | GET detected
+05-13-15 10:32:10 | Ok to proxy
+05-13-15 10:32:10 | Proxy complete
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:32:11 | GET detected
+05-13-15 10:32:11 | Ok to proxy
+05-13-15 10:32:11 | Proxy complete
+05-13-15 10:32:11 | GET detected
+05-13-15 10:32:11 | Ok to proxy
+05-13-15 10:32:11 | Proxy complete
+05-13-15 10:32:11 | GET detected
+05-13-15 10:32:12 | Ok to proxy
+05-13-15 10:32:12 | Proxy complete
+05-13-15 10:32:12 | GET detected
+05-13-15 10:32:12 | Ok to proxy
+05-13-15 10:32:12 | Proxy complete
+05-13-15 10:32:12 | GET detected
+05-13-15 10:32:12 | Ok to proxy
+05-13-15 10:32:12 | Proxy complete
+ 
+05-13-15 10:32:12 | GET detected
+05-13-15 10:32:12 | Ok to proxy
+05-13-15 10:32:12 | Proxy complete
+ 
+ 
+ 
+ 
+05-13-15 10:32:13 | GET detected
+ 
+ 
+05-13-15 10:32:13 | Ok to proxy
+05-13-15 10:32:13 | Proxy complete
+ 
+05-13-15 10:32:13 | GET detected
+05-13-15 10:32:13 | Ok to proxy
+05-13-15 10:32:13 | Proxy complete
+05-13-15 10:32:13 | GET detected
+ 
+05-13-15 10:32:14 | Ok to proxy
+05-13-15 10:32:14 | Proxy complete
+05-13-15 10:32:14 | GET detected
+ 
+05-13-15 10:32:14 | Ok to proxy
+05-13-15 10:32:14 | Proxy complete
+05-13-15 10:32:14 | GET detected
+ 
+05-13-15 10:32:14 | Ok to proxy
+05-13-15 10:32:14 | Proxy complete
+05-13-15 10:32:14 | GET detected
+ 
+05-13-15 10:32:14 | Ok to proxy
+05-13-15 10:32:14 | Proxy complete
+05-13-15 10:32:14 | GET detected
+05-13-15 10:32:14 | Ok to proxy
+05-13-15 10:32:14 | Proxy complete
+05-13-15 10:32:14 | GET detected
+05-13-15 10:32:14 | Ok to proxy
+05-13-15 10:32:14 | Proxy complete
+05-13-15 10:32:14 | GET detected
+05-13-15 10:32:14 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:14 | GET detected
+05-13-15 10:32:14 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:14 | GET detected
+05-13-15 10:32:14 | Ok to proxy
+05-13-15 10:32:14 | Proxy complete
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:32:15 | GET detected
+ 
+05-13-15 10:32:15 | Ok to proxy
+05-13-15 10:32:15 | Proxy complete
+05-13-15 10:32:15 | GET detected
+ 
+05-13-15 10:32:15 | Ok to proxy
+05-13-15 10:32:15 | Proxy complete
+05-13-15 10:32:15 | GET detected
+ 
+05-13-15 10:32:15 | Ok to proxy
+05-13-15 10:32:15 | Proxy complete
+05-13-15 10:32:15 | GET detected
+ 
+05-13-15 10:32:15 | Ok to proxy
+05-13-15 10:32:15 | Proxy complete
+05-13-15 10:32:15 | GET detected
+ 
+05-13-15 10:32:15 | Ok to proxy
+05-13-15 10:32:15 | Proxy complete
+05-13-15 10:32:15 | GET detected
+ 
+05-13-15 10:32:15 | Ok to proxy
+05-13-15 10:32:15 | Proxy complete
+05-13-15 10:32:15 | GET detected
+ 
+05-13-15 10:32:16 | Ok to proxy
+05-13-15 10:32:16 | Proxy complete
+05-13-15 10:32:16 | GET detected
+ 
+05-13-15 10:32:16 | Ok to proxy
+05-13-15 10:32:16 | Proxy complete
+05-13-15 10:32:16 | GET detected
+ 
+05-13-15 10:32:16 | Ok to proxy
+05-13-15 10:32:16 | Proxy complete
+05-13-15 10:32:16 | GET detected
+ 
+05-13-15 10:32:16 | Ok to proxy
+05-13-15 10:32:16 | Proxy complete
+05-13-15 10:32:16 | GET detected
+05-13-15 10:32:16 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:16 | GET detected
+05-13-15 10:32:16 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:16 | GET detected
+05-13-15 10:32:16 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:16 | GET detected
+05-13-15 10:32:16 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:16 | GET detected
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:32:16 | Ok to proxy
+05-13-15 10:32:16 | Proxy complete
+05-13-15 10:32:16 | GET detected
+ 
+05-13-15 10:32:16 | Ok to proxy
+05-13-15 10:32:16 | Proxy complete
+05-13-15 10:32:17 | GET detected
+ 
+05-13-15 10:32:17 | Ok to proxy
+05-13-15 10:32:17 | Proxy complete
+05-13-15 10:32:17 | GET detected
+ 
+05-13-15 10:32:17 | Ok to proxy
+05-13-15 10:32:17 | Proxy complete
+05-13-15 10:32:17 | GET detected
+05-13-15 10:32:17 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1629.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:17 | GET detected
+05-13-15 10:32:17 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1630.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:17 | GET detected
+ 
+05-13-15 10:32:17 | Ok to proxy
+05-13-15 10:32:17 | Proxy complete
+05-13-15 10:32:17 | GET detected
+ 
+05-13-15 10:32:17 | Ok to proxy
+05-13-15 10:32:17 | Proxy complete
+05-13-15 10:32:17 | GET detected
+ 
+05-13-15 10:32:17 | Ok to proxy
+05-13-15 10:32:17 | Proxy complete
+05-13-15 10:32:17 | GET detected
+05-13-15 10:32:17 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1631.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:17 | GET detected
+ 
+05-13-15 10:32:18 | Ok to proxy
+05-13-15 10:32:18 | Proxy complete
+05-13-15 10:32:18 | GET detected
+ 
+05-13-15 10:32:18 | Ok to proxy
+05-13-15 10:32:18 | Proxy complete
+05-13-15 10:32:18 | GET detected
+05-13-15 10:32:18 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1632.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:18 | GET detected
+ 
+05-13-15 10:32:18 | Ok to proxy
+05-13-15 10:32:18 | Proxy complete
+05-13-15 10:32:18 | GET detected
+ 
+05-13-15 10:32:18 | Ok to proxy
+05-13-15 10:32:18 | Proxy complete
+05-13-15 10:32:18 | GET detected
+05-13-15 10:32:18 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1633.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:18 | GET detected
+ 
+05-13-15 10:32:19 | Ok to proxy
+05-13-15 10:32:19 | Proxy complete
+05-13-15 10:32:19 | GET detected
+ 
+05-13-15 10:32:19 | Ok to proxy
+05-13-15 10:32:19 | Proxy complete
+05-13-15 10:32:19 | GET detected
+05-13-15 10:32:19 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1634.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:19 | GET detected
+ 
+05-13-15 10:32:19 | Ok to proxy
+05-13-15 10:32:19 | Proxy complete
+05-13-15 10:32:19 | GET detected
+ 
+05-13-15 10:32:19 | Ok to proxy
+05-13-15 10:32:19 | Proxy complete
+05-13-15 10:32:19 | GET detected
+05-13-15 10:32:20 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1635.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:20 | GET detected
+05-13-15 10:32:20 | Ok to proxy
+05-13-15 10:32:20 | Proxy complete
+05-13-15 10:32:20 | GET detected
+05-13-15 10:32:20 | Ok to proxy
+05-13-15 10:32:20 | Proxy complete
+05-13-15 10:32:20 | GET detected
+05-13-15 10:32:20 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1636.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:20 | GET detected
+05-13-15 10:32:21 | Ok to proxy
+05-13-15 10:32:21 | Proxy complete
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:32:44 | GET detected
+ 
+05-13-15 10:32:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1059/1632.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:44 | GET detected
+05-13-15 10:32:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1059/1633.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:44 | GET detected
+05-13-15 10:32:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1059/1630.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:44 | GET detected
+05-13-15 10:32:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1059/1631.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:44 | GET detected
+05-13-15 10:32:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1059/1634.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:44 | GET detected
+05-13-15 10:32:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1059/1629.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:44 | GET detected
+05-13-15 10:32:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1059/1635.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:45 | GET detected
+05-13-15 10:32:45 | Ok to proxy
+05-13-15 10:32:45 | Proxy complete
+ 
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:32:46 | GET detected
+05-13-15 10:32:47 | Ok to proxy
+05-13-15 10:32:47 | Proxy complete
+05-13-15 10:32:47 | GET detected
+ 
+05-13-15 10:32:47 | Ok to proxy
+05-13-15 10:32:47 | Proxy complete
+05-13-15 10:32:47 | GET detected
+ 
+05-13-15 10:32:47 | Ok to proxy
+05-13-15 10:32:47 | Proxy complete
+05-13-15 10:32:47 | GET detected
+ 
+05-13-15 10:32:47 | Ok to proxy
+05-13-15 10:32:47 | Proxy complete
+05-13-15 10:32:47 | GET detected
+ 
+05-13-15 10:32:47 | Ok to proxy
+05-13-15 10:32:47 | Proxy complete
+05-13-15 10:32:47 | GET detected
+ 
+05-13-15 10:32:48 | Ok to proxy
+05-13-15 10:32:48 | Proxy complete
+05-13-15 10:32:48 | GET detected
+ 
+05-13-15 10:32:48 | Ok to proxy
+05-13-15 10:32:48 | Proxy complete
+05-13-15 10:32:48 | GET detected
+ 
+05-13-15 10:32:49 | Ok to proxy
+05-13-15 10:32:49 | Proxy complete
+05-13-15 10:32:49 | GET detected
+05-13-15 10:32:49 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:49 | GET detected
+05-13-15 10:32:49 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:49 | GET detected
+05-13-15 10:32:49 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:49 | GET detected
+05-13-15 10:32:49 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:49 | GET detected
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:32:52 | Ok to proxy
+05-13-15 10:32:52 | Proxy complete
+05-13-15 10:32:52 | GET detected
+ 
+05-13-15 10:32:52 | Ok to proxy
+05-13-15 10:32:52 | Proxy complete
+05-13-15 10:32:52 | GET detected
+05-13-15 10:32:52 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/263/406.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:52 | GET detected
+ 
+05-13-15 10:32:53 | Ok to proxy
+05-13-15 10:32:53 | Proxy complete
+05-13-15 10:32:53 | GET detected
+05-13-15 10:32:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/263/407.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:53 | GET detected
+05-13-15 10:32:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/265/406.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:53 | GET detected
+ 
+05-13-15 10:32:53 | Ok to proxy
+05-13-15 10:32:53 | Proxy complete
+05-13-15 10:32:53 | GET detected
+ 
+05-13-15 10:32:53 | Ok to proxy
+05-13-15 10:32:53 | Proxy complete
+05-13-15 10:32:53 | GET detected
+ 
+05-13-15 10:32:54 | Ok to proxy
+05-13-15 10:32:54 | Proxy complete
+05-13-15 10:32:54 | GET detected
+ 
+05-13-15 10:32:54 | Ok to proxy
+05-13-15 10:32:54 | Proxy complete
+05-13-15 10:32:54 | GET detected
+05-13-15 10:32:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/265/407.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:54 | GET detected
+05-13-15 10:32:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/263/408.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:54 | GET detected
+05-13-15 10:32:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/263/409.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:54 | GET detected
+05-13-15 10:32:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/263/410.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:54 | GET detected
+05-13-15 10:32:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/263/411.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:54 | GET detected
+05-13-15 10:32:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/263/412.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:54 | GET detected
+ 
+05-13-15 10:32:54 | Ok to proxy
+05-13-15 10:32:54 | Proxy complete
+05-13-15 10:32:54 | GET detected
+05-13-15 10:32:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/265/408.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:54 | GET detected
+ 
+05-13-15 10:32:55 | Ok to proxy
+05-13-15 10:32:55 | Proxy complete
+05-13-15 10:32:55 | GET detected
+05-13-15 10:32:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/265/409.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:55 | GET detected
+ 
+05-13-15 10:32:55 | Ok to proxy
+05-13-15 10:32:55 | Proxy complete
+05-13-15 10:32:55 | GET detected
+05-13-15 10:32:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/265/410.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:55 | GET detected
+ 
+05-13-15 10:32:55 | Ok to proxy
+05-13-15 10:32:55 | Proxy complete
+05-13-15 10:32:55 | GET detected
+05-13-15 10:32:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/265/411.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:32:55 | GET detected
+05-13-15 10:32:55 | Ok to proxy
+05-13-15 10:32:55 | Proxy complete
+05-13-15 10:32:55 | GET detected
+05-13-15 10:32:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/9/265/412.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:32:55 | GET detected
+05-13-15 10:32:55 | Ok to proxy
+05-13-15 10:32:55 | Proxy complete
+05-13-15 10:32:55 | GET detected
+05-13-15 10:32:56 | Ok to proxy
+05-13-15 10:32:56 | Proxy complete
+05-13-15 10:32:56 | GET detected
+05-13-15 10:32:56 | Ok to proxy
+05-13-15 10:32:56 | Proxy complete
+ 
+05-13-15 10:34:54 | GET detected
+05-13-15 10:34:55 | Ok to proxy
+05-13-15 10:34:55 | Proxy complete
+ 
+ 
+ 
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:55 | GET detected
+ 
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4245/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:55 | GET detected
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:34:55 | Ok to proxy
+05-13-15 10:34:55 | Proxy complete
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4245/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:55 | GET detected
+ 
+ 
+05-13-15 10:34:55 | Ok to proxy
+05-13-15 10:34:55 | Proxy complete
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:55 | GET detected
+05-13-15 10:34:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4245/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:55 | GET detected
+ 
+ 
+05-13-15 10:34:56 | Ok to proxy
+05-13-15 10:34:56 | Proxy complete
+05-13-15 10:34:56 | GET detected
+05-13-15 10:34:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:56 | GET detected
+05-13-15 10:34:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4245/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:56 | GET detected
+ 
+ 
+05-13-15 10:34:56 | Ok to proxy
+05-13-15 10:34:56 | Proxy complete
+05-13-15 10:34:56 | GET detected
+05-13-15 10:34:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:56 | GET detected
+05-13-15 10:34:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4245/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:56 | GET detected
+ 
+ 
+05-13-15 10:34:56 | Ok to proxy
+05-13-15 10:34:56 | Proxy complete
+05-13-15 10:34:56 | GET detected
+ 
+05-13-15 10:34:56 | Ok to proxy
+05-13-15 10:34:56 | Proxy complete
+05-13-15 10:34:56 | GET detected
+ 
+05-13-15 10:34:56 | Ok to proxy
+05-13-15 10:34:56 | Proxy complete
+05-13-15 10:34:56 | GET detected
+05-13-15 10:34:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:56 | GET detected
+ 
+ 
+05-13-15 10:34:56 | Ok to proxy
+05-13-15 10:34:56 | Proxy complete
+05-13-15 10:34:56 | GET detected
+05-13-15 10:34:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4249/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:56 | GET detected
+ 
+05-13-15 10:34:57 | Ok to proxy
+05-13-15 10:34:57 | Proxy complete
+05-13-15 10:34:57 | GET detected
+ 
+05-13-15 10:34:57 | Ok to proxy
+05-13-15 10:34:57 | Proxy complete
+05-13-15 10:34:57 | GET detected
+ 
+05-13-15 10:34:57 | Ok to proxy
+05-13-15 10:34:57 | Proxy complete
+05-13-15 10:34:57 | GET detected
+ 
+05-13-15 10:34:57 | Ok to proxy
+05-13-15 10:34:57 | Proxy complete
+05-13-15 10:34:57 | GET detected
+ 
+05-13-15 10:34:57 | Ok to proxy
+05-13-15 10:34:57 | Proxy complete
+05-13-15 10:34:57 | GET detected
+05-13-15 10:34:57 | Ok to proxy
+05-13-15 10:34:57 | Proxy complete
+05-13-15 10:34:57 | GET detected
+05-13-15 10:34:57 | Ok to proxy
+05-13-15 10:34:57 | Proxy complete
+05-13-15 10:34:57 | GET detected
+05-13-15 10:34:58 | Ok to proxy
+05-13-15 10:34:58 | Proxy complete
+05-13-15 10:34:58 | GET detected
+05-13-15 10:34:58 | Ok to proxy
+05-13-15 10:34:58 | Proxy complete
+05-13-15 10:34:58 | GET detected
+05-13-15 10:34:58 | Ok to proxy
+05-13-15 10:34:58 | Proxy complete
+ 
+05-13-15 10:34:58 | GET detected
+05-13-15 10:34:58 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4249/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:58 | GET detected
+ 
+ 
+ 
+05-13-15 10:34:58 | Ok to proxy
+05-13-15 10:34:58 | Proxy complete
+05-13-15 10:34:58 | GET detected
+05-13-15 10:34:58 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4249/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:58 | GET detected
+ 
+ 
+ 
+05-13-15 10:34:59 | Ok to proxy
+05-13-15 10:34:59 | Proxy complete
+05-13-15 10:34:59 | GET detected
+05-13-15 10:34:59 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4249/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:59 | GET detected
+ 
+05-13-15 10:34:59 | Ok to proxy
+05-13-15 10:34:59 | Proxy complete
+05-13-15 10:34:59 | GET detected
+05-13-15 10:34:59 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4249/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:59 | GET detected
+05-13-15 10:34:59 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4245/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:59 | GET detected
+ 
+ 
+ 
+05-13-15 10:34:59 | Ok to proxy
+05-13-15 10:34:59 | Proxy complete
+05-13-15 10:34:59 | GET detected
+05-13-15 10:34:59 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:34:59 | GET detected
+05-13-15 10:34:59 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4245/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:34:59 | GET detected
+ 
+ 
+05-13-15 10:35:00 | Ok to proxy
+05-13-15 10:35:00 | Proxy complete
+05-13-15 10:35:00 | GET detected
+05-13-15 10:35:00 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:35:00 | GET detected
+ 
+ 
+ 
+ 
+05-13-15 10:35:01 | Ok to proxy
+05-13-15 10:35:01 | Proxy complete
+05-13-15 10:35:01 | GET detected
+05-13-15 10:35:01 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4249/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:35:01 | GET detected
+ 
+05-13-15 10:35:02 | Ok to proxy
+05-13-15 10:35:02 | Proxy complete
+05-13-15 10:35:02 | GET detected
+05-13-15 10:35:02 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4249/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:35:02 | GET detected
+05-13-15 10:35:02 | Ok to proxy
+05-13-15 10:35:02 | Proxy complete
+05-13-15 10:35:02 | GET detected
+05-13-15 10:35:02 | Ok to proxy
+05-13-15 10:35:02 | Proxy complete
+05-13-15 10:35:02 | GET detected
+05-13-15 10:35:02 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:35:02 | GET detected
+05-13-15 10:35:02 | Proxy could not resolve requested url - http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer/Route.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:35:04 | GET detected
+05-13-15 10:35:04 | Ok to proxy
+05-13-15 10:35:04 | Proxy complete
+ 
+05-13-15 10:35:05 | GET detected
+05-13-15 10:35:05 | Ok to proxy
+05-13-15 10:35:05 | Proxy complete
+ 
+05-13-15 10:36:05 | GET detected
+05-13-15 10:36:05 | Ok to proxy
+05-13-15 10:36:05 | Proxy complete
+ 
+05-13-15 10:36:05 | GET detected
+05-13-15 10:36:05 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:05 | GET detected
+05-13-15 10:36:05 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:05 | GET detected
+05-13-15 10:36:05 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:05 | GET detected
+05-13-15 10:36:05 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+ 
+05-13-15 10:36:05 | GET detected
+ 
+ 
+ 
+05-13-15 10:36:06 | Ok to proxy
+05-13-15 10:36:06 | Proxy complete
+05-13-15 10:36:06 | GET detected
+ 
+05-13-15 10:36:06 | Ok to proxy
+05-13-15 10:36:06 | Proxy complete
+05-13-15 10:36:06 | GET detected
+05-13-15 10:36:06 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:06 | GET detected
+05-13-15 10:36:06 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:36:06 | GET detected
+ 
+05-13-15 10:36:06 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:06 | GET detected
+ 
+05-13-15 10:36:06 | Ok to proxy
+05-13-15 10:36:06 | Proxy complete
+05-13-15 10:36:06 | GET detected
+ 
+05-13-15 10:36:09 | Ok to proxy
+05-13-15 10:36:09 | Proxy complete
+05-13-15 10:36:09 | GET detected
+ 
+05-13-15 10:36:10 | Ok to proxy
+05-13-15 10:36:10 | Proxy complete
+05-13-15 10:36:10 | GET detected
+ 
+05-13-15 10:36:10 | Ok to proxy
+05-13-15 10:36:10 | Proxy complete
+05-13-15 10:36:10 | GET detected
+05-13-15 10:36:10 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:10 | GET detected
+ 
+05-13-15 10:36:10 | Ok to proxy
+05-13-15 10:36:10 | Proxy complete
+05-13-15 10:36:10 | GET detected
+05-13-15 10:36:10 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:10 | GET detected
+ 
+05-13-15 10:36:10 | Ok to proxy
+05-13-15 10:36:10 | Proxy complete
+05-13-15 10:36:10 | GET detected
+ 
+05-13-15 10:36:10 | Ok to proxy
+05-13-15 10:36:10 | Proxy complete
+05-13-15 10:36:10 | GET detected
+ 
+05-13-15 10:36:10 | Ok to proxy
+05-13-15 10:36:10 | Proxy complete
+05-13-15 10:36:10 | GET detected
+ 
+05-13-15 10:36:11 | Ok to proxy
+05-13-15 10:36:11 | Proxy complete
+05-13-15 10:36:11 | GET detected
+ 
+05-13-15 10:36:11 | Ok to proxy
+05-13-15 10:36:11 | Proxy complete
+05-13-15 10:36:11 | GET detected
+05-13-15 10:36:11 | Ok to proxy
+05-13-15 10:36:11 | Proxy complete
+05-13-15 10:36:11 | GET detected
+05-13-15 10:36:11 | Ok to proxy
+05-13-15 10:36:11 | Proxy complete
+05-13-15 10:36:11 | GET detected
+ 
+ 
+ 
+05-13-15 10:36:11 | Ok to proxy
+05-13-15 10:36:11 | Proxy complete
+05-13-15 10:36:11 | GET detected
+05-13-15 10:36:11 | Ok to proxy
+05-13-15 10:36:11 | Proxy complete
+05-13-15 10:36:11 | GET detected
+ 
+05-13-15 10:36:12 | Ok to proxy
+05-13-15 10:36:12 | Proxy complete
+05-13-15 10:36:12 | GET detected
+05-13-15 10:36:12 | Ok to proxy
+05-13-15 10:36:12 | Proxy complete
+05-13-15 10:36:12 | GET detected
+ 
+05-13-15 10:36:12 | Ok to proxy
+05-13-15 10:36:12 | Proxy complete
+05-13-15 10:36:12 | GET detected
+ 
+05-13-15 10:36:12 | Ok to proxy
+05-13-15 10:36:12 | Proxy complete
+05-13-15 10:36:12 | GET detected
+ 
+ 
+05-13-15 10:36:13 | Ok to proxy
+05-13-15 10:36:13 | Proxy complete
+05-13-15 10:36:13 | GET detected
+05-13-15 10:36:13 | Ok to proxy
+05-13-15 10:36:13 | Proxy complete
+05-13-15 10:36:13 | GET detected
+05-13-15 10:36:13 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:13 | GET detected
+ 
+05-13-15 10:36:13 | Ok to proxy
+05-13-15 10:36:13 | Proxy complete
+05-13-15 10:36:13 | GET detected
+05-13-15 10:36:13 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:13 | GET detected
+ 
+ 
+05-13-15 10:36:13 | Ok to proxy
+05-13-15 10:36:13 | Proxy complete
+05-13-15 10:36:13 | GET detected
+ 
+05-13-15 10:36:14 | Ok to proxy
+05-13-15 10:36:14 | Proxy complete
+05-13-15 10:36:14 | GET detected
+05-13-15 10:36:14 | Ok to proxy
+05-13-15 10:36:14 | Proxy complete
+05-13-15 10:36:14 | GET detected
+05-13-15 10:36:14 | Ok to proxy
+05-13-15 10:36:14 | Proxy complete
+05-13-15 10:36:14 | GET detected
+05-13-15 10:36:15 | Ok to proxy
+05-13-15 10:36:15 | Proxy complete
+05-13-15 10:36:15 | GET detected
+05-13-15 10:36:15 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:36:22 | GET detected
+05-13-15 10:36:22 | Proxy could not resolve requested url - http://localhost/laravelgis/public/proxy/PHP/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:37:14 | GET detected
+05-13-15 10:37:18 | Ok to proxy
+05-13-15 10:37:18 | Proxy complete
+ 
+ 
+05-13-15 10:37:18 | GET detected
+ 
+05-13-15 10:37:18 | GET detected
+ 
+ 
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | GET detected
+ 
+05-13-15 10:37:19 | GET detected
+ 
+05-13-15 10:37:19 | GET detected
+05-13-15 10:37:19 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+
+05-13-15 10:37:19 | GET detected
+05-13-15 10:37:19 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:37:19 | GET detected
+05-13-15 10:37:19 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:37:19 | GET detected
+05-13-15 10:37:19 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:37:19 | GET detected
+05-13-15 10:37:19 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:37:19 | GET detected
+ 
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | GET detected
+ 
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | GET detected
+ 
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | GET detected
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | GET detected
+05-13-15 10:37:19 | Ok to proxy
+05-13-15 10:37:19 | Proxy complete
+05-13-15 10:37:19 | GET detected
+ 
+ 
+05-13-15 10:37:20 | GET detected
+05-13-15 10:37:20 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:37:20 | GET detected
+05-13-15 10:37:20 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:37:20 | Ok to proxy
+05-13-15 10:37:20 | Proxy complete
+05-13-15 10:37:20 | Ok to proxy
+05-13-15 10:37:20 | Proxy complete
+05-13-15 10:37:20 | GET detected
+05-13-15 10:37:20 | Ok to proxy
+05-13-15 10:37:20 | Proxy complete
+ 
+ 
+05-13-15 10:37:20 | GET detected
+ 
+ 
+ 
+ 
+05-13-15 10:37:20 | Ok to proxy
+05-13-15 10:37:20 | Proxy complete
+05-13-15 10:37:20 | GET detected
+05-13-15 10:37:20 | Ok to proxy
+05-13-15 10:37:20 | Proxy complete
+05-13-15 10:37:20 | GET detected
+05-13-15 10:37:21 | Ok to proxy
+05-13-15 10:37:21 | Proxy complete
+05-13-15 10:37:21 | GET detected
+05-13-15 10:37:21 | Ok to proxy
+05-13-15 10:37:21 | Proxy complete
+05-13-15 10:37:21 | GET detected
+ 
+05-13-15 10:37:21 | Ok to proxy
+05-13-15 10:37:21 | Proxy complete
+05-13-15 10:37:21 | GET detected
+05-13-15 10:37:21 | Ok to proxy
+05-13-15 10:37:21 | Proxy complete
+05-13-15 10:37:21 | GET detected
+05-13-15 10:37:21 | Ok to proxy
+05-13-15 10:37:21 | Proxy complete
+ 
+05-13-15 10:37:23 | GET detected
+05-13-15 10:37:23 | Ok to proxy
+05-13-15 10:37:23 | Proxy complete
+ 
+05-13-15 10:37:25 | GET detected
+ 
+05-13-15 10:37:26 | Ok to proxy
+05-13-15 10:37:26 | Proxy complete
+05-13-15 10:37:26 | GET detected
+05-13-15 10:37:26 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:37:26 | GET detected
+05-13-15 10:37:26 | Ok to proxy
+05-13-15 10:37:26 | Proxy complete
+ 
+05-13-15 10:37:41 | GET detected
+05-13-15 10:37:41 | Proxy could not resolve requested url - https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:20 | GET detected
+05-13-15 10:38:21 | Ok to proxy
+05-13-15 10:38:21 | Proxy complete
+ 
+ 
+05-13-15 10:38:27 | GET detected
+ 
+
+ 
+05-13-15 10:38:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6523.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6524.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6527.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6526.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6528.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6525.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/13/4247/6529.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Ok to proxy
+05-13-15 10:38:27 | Proxy complete
+05-13-15 10:38:27 | GET detected
+05-13-15 10:38:27 | Ok to proxy
+05-13-15 10:38:27 | Proxy complete
+ 
+ 
+ 
+05-13-15 10:38:28 | GET detected
+ 
+05-13-15 10:38:28 | Ok to proxy
+05-13-15 10:38:28 | Proxy complete
+05-13-15 10:38:28 | GET detected
+05-13-15 10:38:28 | Ok to proxy
+05-13-15 10:38:28 | Proxy complete
+05-13-15 10:38:28 | GET detected
+05-13-15 10:38:28 | Ok to proxy
+05-13-15 10:38:28 | Proxy complete
+05-13-15 10:38:28 | GET detected
+05-13-15 10:38:28 | Ok to proxy
+05-13-15 10:38:28 | Proxy complete
+ 
+05-13-15 10:38:31 | GET detected
+05-13-15 10:38:31 | Ok to proxy
+05-13-15 10:38:31 | Proxy complete
+ 
+05-13-15 10:38:33 | GET detected
+ 
+05-13-15 10:38:34 | Ok to proxy
+05-13-15 10:38:34 | Proxy complete
+05-13-15 10:38:34 | GET detected
+ 
+05-13-15 10:38:35 | Ok to proxy
+05-13-15 10:38:35 | Proxy complete
+05-13-15 10:38:35 | GET detected
+05-13-15 10:38:35 | Ok to proxy
+05-13-15 10:38:35 | Proxy complete
+ 
+05-13-15 10:38:39 | GET detected
+ 
+ 
+ 
+ 
+05-13-15 10:38:40 | Ok to proxy
+05-13-15 10:38:40 | Proxy complete
+05-13-15 10:38:40 | GET detected
+05-13-15 10:38:40 | Ok to proxy
+05-13-15 10:38:40 | Proxy complete
+05-13-15 10:38:40 | GET detected
+05-13-15 10:38:40 | Ok to proxy
+05-13-15 10:38:40 | Proxy complete
+05-13-15 10:38:40 | GET detected
+05-13-15 10:38:40 | Ok to proxy
+05-13-15 10:38:40 | Proxy complete
+05-13-15 10:38:40 | GET detected
+05-13-15 10:38:40 | Ok to proxy
+05-13-15 10:38:40 | Proxy complete
+  
+ 
+ 
+ 
+05-13-15 10:38:41 | GET detected
+ 
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+ 
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+ 
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+ 
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+ 
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+ 
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+05-13-15 10:38:42 | Ok to proxy
+05-13-15 10:38:42 | Proxy complete
+05-13-15 10:38:42 | GET detected
+ 
+05-13-15 10:38:42 | GET detected
+05-13-15 10:38:43 | Ok to proxy
+05-13-15 10:38:43 | Proxy complete
+05-13-15 10:38:43 | Ok to proxy
+05-13-15 10:38:43 | Proxy complete
+05-13-15 10:38:43 | GET detected
+ 
+ 
+05-13-15 10:38:43 | GET detected
+ 
+05-13-15 10:38:43 | GET detected
+ 
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1629.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1630.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1631.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+  
+05-13-15 10:38:43 | GET detected
+ 
+ 
+05-13-15 10:38:43 | Ok to proxy
+05-13-15 10:38:43 | Proxy complete
+05-13-15 10:38:43 | Ok to proxy
+05-13-15 10:38:43 | Proxy complete
+05-13-15 10:38:43 | GET detected
+ 
+05-13-15 10:38:43 | Ok to proxy
+05-13-15 10:38:43 | Proxy complete
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1063/1629.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:43 | GET detected
+ 
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1063/1630.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1632.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1633.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1063/1631.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:43 | GET detected
+ 
+05-13-15 10:38:43 | GET detected
+ 
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1634.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1061/1635.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:43 | GET detected
+ 
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1063/1632.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:43 | GET detected
+05-13-15 10:38:43 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1063/1633.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:43 | Ok to proxy
+05-13-15 10:38:43 | Proxy complete
+05-13-15 10:38:44 | GET detected
+05-13-15 10:38:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1063/1634.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:44 | GET detected
+05-13-15 10:38:44 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/11/1063/1635.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:44 | GET detected
+05-13-15 10:38:44 | Ok to proxy
+05-13-15 10:38:44 | Proxy complete
+05-13-15 10:38:44 | Ok to proxy
+05-13-15 10:38:44 | Proxy complete
+ 
+ 
+ 
+ 
+05-13-15 10:38:45 | GET detected
+ 
+ 
+05-13-15 10:38:45 | Ok to proxy
+05-13-15 10:38:45 | Proxy complete
+05-13-15 10:38:45 | GET detected
+ 
+05-13-15 10:38:46 | Ok to proxy
+05-13-15 10:38:46 | Proxy complete
+05-13-15 10:38:46 | GET detected
+ 
+05-13-15 10:38:46 | Ok to proxy
+05-13-15 10:38:46 | Proxy complete
+05-13-15 10:38:46 | GET detected
+ 
+05-13-15 10:38:46 | Ok to proxy
+05-13-15 10:38:46 | Proxy complete
+05-13-15 10:38:46 | GET detected
+ 
+05-13-15 10:38:47 | Ok to proxy
+05-13-15 10:38:47 | Proxy complete
+05-13-15 10:38:47 | GET detected
+ 
+05-13-15 10:38:47 | Ok to proxy
+05-13-15 10:38:47 | Proxy complete
+05-13-15 10:38:47 | GET detected
+05-13-15 10:38:47 | Ok to proxy
+05-13-15 10:38:47 | Proxy complete
+05-13-15 10:38:47 | GET detected
+05-13-15 10:38:48 | Ok to proxy
+05-13-15 10:38:48 | Proxy complete
+05-13-15 10:38:48 | GET detected
+ 
+05-13-15 10:38:48 | GET detected
+05-13-15 10:38:48 | Ok to proxy
+05-13-15 10:38:48 | Proxy complete
+05-13-15 10:38:48 | Ok to proxy
+05-13-15 10:38:48 | Proxy complete
+05-13-15 10:38:48 | GET detected
+ 
+05-13-15 10:38:48 | GET detected
+05-13-15 10:38:49 | Ok to proxy
+05-13-15 10:38:49 | Proxy complete
+05-13-15 10:38:49 | Ok to proxy
+05-13-15 10:38:49 | Proxy complete
+05-13-15 10:38:49 | GET detected
+ 
+ 
+ 
+ 
+ 
+05-13-15 10:38:49 | Ok to proxy
+05-13-15 10:38:49 | Proxy complete
+05-13-15 10:38:49 | GET detected
+ 
+05-13-15 10:38:50 | Ok to proxy
+05-13-15 10:38:50 | Proxy complete
+05-13-15 10:38:50 | GET detected
+ 
+05-13-15 10:38:51 | Ok to proxy
+05-13-15 10:38:51 | Proxy complete
+05-13-15 10:38:51 | GET detected
+ 
+05-13-15 10:38:51 | Ok to proxy
+05-13-15 10:38:51 | Proxy complete
+05-13-15 10:38:51 | GET detected
+ 
+ 
+05-13-15 10:38:52 | Ok to proxy
+05-13-15 10:38:52 | Proxy complete
+05-13-15 10:38:52 | GET detected
+ 
+ 
+05-13-15 10:38:52 | Ok to proxy
+05-13-15 10:38:52 | Proxy complete
+05-13-15 10:38:52 | GET detected
+ 
+05-13-15 10:38:52 | Ok to proxy
+05-13-15 10:38:52 | Proxy complete
+05-13-15 10:38:52 | GET detected
+ 
+05-13-15 10:38:53 | Ok to proxy
+05-13-15 10:38:53 | Proxy complete
+05-13-15 10:38:53 | GET detected
+ 
+05-13-15 10:38:53 | Ok to proxy
+05-13-15 10:38:53 | Proxy complete
+05-13-15 10:38:53 | GET detected
+ 
+ 
+05-13-15 10:38:53 | GET detected
+05-13-15 10:38:54 | Ok to proxy
+05-13-15 10:38:54 | Proxy complete
+05-13-15 10:38:54 | Ok to proxy
+05-13-15 10:38:54 | Proxy complete
+05-13-15 10:38:54 | GET detected
+ 
+05-13-15 10:38:54 | GET detected
+05-13-15 10:38:54 | Ok to proxy
+05-13-15 10:38:54 | Proxy complete
+05-13-15 10:38:54 | Ok to proxy
+05-13-15 10:38:54 | Proxy complete
+05-13-15 10:38:54 | GET detected
+05-13-15 10:38:55 | Ok to proxy
+05-13-15 10:38:55 | Proxy complete
+05-13-15 10:38:55 | GET detected
+05-13-15 10:38:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/65/100.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:55 | GET detected
+ 
+05-13-15 10:38:55 | Ok to proxy
+05-13-15 10:38:55 | Proxy complete
+05-13-15 10:38:55 | GET detected
+ 
+05-13-15 10:38:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/67/100.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:55 | GET detected
+ 
+05-13-15 10:38:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/65/101.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:55 | GET detected
+ 
+05-13-15 10:38:55 | Ok to proxy
+05-13-15 10:38:55 | Proxy complete
+05-13-15 10:38:55 | GET detected
+05-13-15 10:38:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/67/101.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:55 | GET detected
+05-13-15 10:38:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/65/102.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:55 | GET detected
+ 
+05-13-15 10:38:55 | Ok to proxy
+05-13-15 10:38:55 | Proxy complete
+05-13-15 10:38:55 | GET detected
+05-13-15 10:38:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/67/102.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:55 | GET detected
+ 
+05-13-15 10:38:55 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/65/103.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:55 | GET detected
+ 
+05-13-15 10:38:56 | Ok to proxy
+05-13-15 10:38:56 | Proxy complete
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/67/103.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/65/104.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:56 | GET detected
+ 
+05-13-15 10:38:56 | Ok to proxy
+05-13-15 10:38:56 | Proxy complete
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/67/104.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:38:56 | GET detected
+ 
+05-13-15 10:38:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/65/105.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Ok to proxy
+05-13-15 10:38:56 | Proxy complete
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/67/105.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/65/106.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Ok to proxy
+05-13-15 10:38:56 | Proxy complete
+05-13-15 10:38:56 | GET detected
+05-13-15 10:38:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/7/67/106.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+05-13-15 10:39:50 | GET detected
+05-13-15 10:39:50 | Ok to proxy
+05-13-15 10:39:50 | Proxy complete
+05-13-15 10:39:50 | GET detected
+05-13-15 10:39:51 | Ok to proxy
+05-13-15 10:39:51 | Proxy complete
+ 
+ 
+05-13-15 10:39:52 | GET detected
+ 
+ 
+ 
+05-13-15 10:39:52 | GET detected
+05-13-15 10:39:52 | Ok to proxy
+05-13-15 10:39:52 | Proxy complete
+05-13-15 10:39:52 | Ok to proxy
+05-13-15 10:39:52 | Proxy complete
+05-13-15 10:39:52 | GET detected
+ 
+05-13-15 10:39:52 | GET detected
+ 
+ 
+
+ 05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/65/100.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/67/100.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | GET detected
+ 
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/65/101.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | GET detected
+ 
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+ 
+ 
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/67/101.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/65/102.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | GET detected
+ 
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/67/102.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/65/103.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:53 | GET detected
+ 
+ 
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/65/104.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:53 | GET detected
+ 
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/67/103.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | Ok to proxy
+ 
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+ 
+ 
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/67/104.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/65/105.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:53 | GET detected
+ 
+05-13-15 10:39:53 | Ok to proxy
+05-13-15 10:39:53 | Proxy complete
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/67/105.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:53 | GET detected
+05-13-15 10:39:53 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/65/106.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:53 | GET detected
+ 
+ 
+05-13-15 10:39:54 | Ok to proxy
+ 
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/7/67/106.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | GET detected
+ 
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/65/100.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+ 
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/67/100.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/65/101.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:54 | GET detected
+ 
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/67/101.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/65/102.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/67/102.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/65/103.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:54 | GET detected
+ 
+ 
+ 
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/65/104.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/65/105.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/67/104.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:39:54 | GET detected
+ 
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/67/103.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+ 
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/67/105.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/65/106.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Ok to proxy
+05-13-15 10:39:54 | Proxy complete
+05-13-15 10:39:54 | GET detected
+05-13-15 10:39:54 | Proxy could not resolve requested url - http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/7/67/106.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-13-15 10:41:55 | GET detected
+ 
+05-13-15 10:41:55 | GET detected
+05-13-15 10:41:58 | Ok to proxy
+05-13-15 10:41:58 | Proxy complete
+05-13-15 10:41:58 | Ok to proxy
+05-13-15 10:41:58 | Proxy complete
